@@ -91,3 +91,5 @@ https://cdn.amelbasoluciones.co:8081/telemocoalive/index.m3u8
 #EXTINF:-1 group-title="Colombia", BUM TELEVISIÓN
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
+#EXTINF:-1 group-title="Colombia", TELE DORADA
+https://movil.ejeserver.com/live/teledoradahd.m3u8
