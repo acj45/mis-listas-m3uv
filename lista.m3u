@@ -1,6 +1,24 @@
 
 #EXTM3U
 
+#EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 1
+http://8.243.126.131:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 2
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 3
+http://38.187.7.252:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 4
+http://190.223.48.46:8000/play/a028/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 5
+http://191.97.59.33:8000/play/a09t/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 6
+http://190.117.20.37:8000/play/a08d/index.m3u
+
 #EXTINF:-1 group-title="Noticias", CNN EN ESPAÑOL
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
 
@@ -10,9 +28,6 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 group-title="Noticias", ESTRELLA NEWS
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991776
 
-#EXTINF:-1 group-title="TV", TELEMUNDO
-https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459&ads.asnw=169843&ads.afid=442535792&ads.sfid=23780352&ads.caid=telemundodeportesahora_linear&ads.csid=xumo_
-
 #EXTINF:-1 group-title="Economía", ECONOMIA & FINANZAS
 https://amogonetworx-moconomy-1-es.lg.wurl.tv/playlist.m3u8
 
@@ -21,9 +36,6 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 group-title="Retro", RETRO PLUS
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Colombia", CANAL 1
-https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
 #EXTINF:-1 group-title="Noticias", DW NOTICIAS
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
@@ -46,17 +58,11 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/108
 #EXTINF:-1 group-title="Radio", LA KALLE
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
-#EXTINF:-1 group-title="Música", HITS MEXICANOS
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/VULCHRA/m.m3u8
-
 #EXTINF:-1 group-title="Retro", RETROPLUS 2
 https://scl.edge.grupoz.cl/retroplustvdos/live/chunklist_w349133620.m3u8
 
 #EXTINF:-1 group-title="TV", NETS TV
 https://movil.ejeserver.com/live/nets.m3u8
-
-#EXTINF:-1 group-title="TV", MI GENTE 3.0
-https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
 
 #EXTINF:-1 group-title="TV", TV SAMANIEGO
 https://movil.ejeserver.com/live/canal4tv.m3u8
