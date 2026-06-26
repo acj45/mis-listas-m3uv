@@ -61,12 +61,6 @@ https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
 #EXTINF:-1 group-title="TV", TV SAMANIEGO
 https://movil.ejeserver.com/live/canal4tv.m3u8
 
-#EXTINF:-1 group-title="Música", SUPER TRENDY
-https://live-us.streann.tech/caracascl/caracascl/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NzA2MDI3NzUsInJpZCI6IjVhZDczMDJiMmNkYzJkZTAxMjlmNzcyNCIsImtleSI6ImtleTEiLCJjaWQiOiI2OGI4NDZiNjhmMDg3OWNjODY5ZWUwOTIifQ.9F0fG9pt-tROFpawkFGTzXGns2vZc8HKkjSkBB8amoI
-
-#EXTINF:-1 group-title="Colombia", TV PEÑOL HD
-https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
-
 #EXTINF:-1 group-title="Colombia", HUILA TV
 https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 
@@ -84,3 +78,36 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 group-title="Colombia", TELE DORADA
 https://movil.ejeserver.com/live/teledoradahd.m3u8
+
+#EXTINF:-1 group-title="TV", BEST CLASICOS
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8 
+
+#EXTINF:-1 group-title="TV", CANAL 10 COSTA RICA
+https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Música", PLANCHA TV
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/plalist.m3u8
+
+#EXTINF:-1 group-title="TV", SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8  
+
+#EXTINF:-1 group-title="TV", RETRO TV PALMARES
+https://lbgo.bozztv.com/ssh101/ssh101/tvretropalm2020/playlist.m3u8 
+
+#EXTINF:-1 group-title="TV", LAS ESTRELLAS
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8 
+
+#EXTINF:-1 group-title="TV", RETRO PLUS 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8 
+
+#EXTINF:-1 group-title="TV", XTREMA TV
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 group-title="TV", MEGA CINE
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8 
+
+#EXTINF:-1 group-title="TV", RETRO X
+https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8 
+
+#EXTINF:-1 group-title="TV", RETRO X PLUS
+https://lbgo.bozztv.com/ssh101/ssh101/retp/chunks.m3u8
