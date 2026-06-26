@@ -32,8 +32,14 @@ http://38.187.7.252:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 4
 http://190.223.48.46:8000/play/a028/index.m3u8
 
+#EXTINF:-1 group-title="TV", CANAL 1
+http://181.78.79.131:8000/play/a0s2
+
 #EXTINF:-1 group-title="TV", CARACOL HD 
 http://138.121.15.230:9002/CARACOL/index.m3u8
+
+#EXTINF:-1 group-title="TV", CARACOL HD OP 2
+http://181.78.79.131:8000/play/a0l0
 
 #EXTINF:-1 group-title="TV", CARACOL HD 2
 http://181.78.14.26:4000/play/a00d/index.m3u8
@@ -79,9 +85,6 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
 #EXTINF:-1 group-title="Retro", RETROPLUS 2
 https://scl.edge.grupoz.cl/retroplustvdos/live/chunklist_w349133620.m3u8
-
-#EXTINF:-1 group-title="Musica", MEMORIAS DEL CORAZON
-https://video.xtrematv.com:3401/live/grupomemoriaslive.m3u8
 
 #EXTINF:-1 group-title="Musica", MI GENTE 3.0
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
@@ -130,9 +133,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/tvretropalm2020/playlist.m3u8
 
 #EXTINF:-1 group-title="TV", LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8 
-
-#EXTINF:-1 group-title="TV", RETRO PLUS 2
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8 
 
 #EXTINF:-1 group-title="TV", XTREMA TV
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
