@@ -1,6 +1,27 @@
 
 #EXTM3U
 
+#EXTINF:-1 group-title="DEPORTE", WIN SPORT
+https://raw.githubusercontent.com/luchitogali2020-bot/fulvo/refs/heads/main/mundial.m3u
+
+#EXTINF:-1 group-title="DEPORTE", ENT FAMILY
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 group-title="DEPORTE", ENT FAMILY
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8  
+
+#EXTINF:-1 group-title="TV", ENT CHANNEL
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="TV", TELEMUNDO
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master_4.m3u8
+
+#EXTINF:-1 group-title="TV", AZTECA 7
+https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
+
+#EXTINF:-1 group-title="TV", LOVE NATURE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/LoveNature/chunks.m3u8?nimblesessionid=613890001 
+
 #EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 1
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
@@ -12,12 +33,6 @@ http://38.187.7.252:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 4
 http://190.223.48.46:8000/play/a028/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 5
-http://191.97.59.33:8000/play/a09t/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 6
-http://190.117.20.37:8000/play/a08d/index.m3u
 
 #EXTINF:-1 group-title="Noticias", CNN EN ESPAÑOL
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
