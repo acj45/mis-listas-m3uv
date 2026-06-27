@@ -32,17 +32,38 @@ http://38.187.7.252:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 4
 http://190.223.48.46:8000/play/a028/index.m3u8
 
-#EXTINF:-1 group-title="TV", CANAL 1
+http://190.60.52.28:5001/play/a0fz/index.m3u8
+# EXTINF : 0  group-title = " Deportes " , ESPN
+# EXTGRP : Deportes
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0s7
+# EXTINF : 0  group-title = " Deportes " , ESPN 2 HD
+# EXTGRP : Deportes
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0qj
+# EXTINF : 0  group-title = " Deportes " , ESPN 3 HD
+# EXTGRP : Deportes
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0s6
+# EXTINF : 0  group-title = " Deportes " , ESPN 4 HD
+# EXTGRP : Deportes
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0s9
+# EXTINF : 0  group-title = " Deportes " , ESPN 5 HD
+# EXTGRP : Deportes
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0s5
+# EXTINF : 0  group-title = " Deportes " , ESPN 6 HD
+# EXTGRP : Deportes
+# EXTVLCOPT : almacenamiento en caché de red = 1000
+http://181.78.79.131:8000/play/a0s3
+# EXTINF : 0  group-title = " Deportes " , ESPN 7 HD
+
+#EXTINF:-1 group-title="TV", CANAL 1 HD
 http://181.78.79.131:8000/play/a0s2
 
 #EXTINF:-1 group-title="TV", CARACOL HD 
-http://138.121.15.230:9002/CARACOL/index.m3u8
-
-#EXTINF:-1 group-title="TV", CARACOL HD OP 2
 http://181.78.79.131:8000/play/a0l0
-
-#EXTINF:-1 group-title="TV", CARACOL HD 2
-http://181.78.14.26:4000/play/a00d/index.m3u8
 
 #EXTINF:-1 group-title="Noticias", CNN EN ESPAÑOL
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
