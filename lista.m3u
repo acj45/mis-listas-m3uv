@@ -32,31 +32,40 @@ http://38.187.7.252:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 4
 http://190.223.48.46:8000/play/a028/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTE", ESPN HD 1
-http://190.60.52.28:5001/play/a0fz/index.m3u8
+#EXTINF:-1 group-title="DEPORTE", WIN SPORTS+ HD
+http://181.78.79.131:8000/play/a0n1
 
-#EXTINF:-1 group-title="DEPORTE", ESPN HD 2
+#EXTINF:-1 group-title="DEPORTE", ESPN HD 1
 http://181.78.79.131:8000/play/a0s7
 
-#EXTINF:-1 group-title="DEPORTE", ESPN HD 3
+#EXTINF:-1 group-title="DEPORTE", ESPN HD 2
 
-#EXTINF:-1 group-title="DEPORTE", ESPN HD 4
+#EXTINF:-1 group-title="DEPORTE", ESPN HD 3
 http://181.78.79.131:8000/play/a0s6
 
-#EXTINF:-1 group-title="DEPORTE", ESPN HD 5
+#EXTINF:-1 group-title="DEPORTE", ESPN HD 4
 http://181.78.79.131:8000/play/a0s9
 
-#EXTINF:-1 group-title="DEPORTE", ESPN HD 6
+#EXTINF:-1 group-title="DEPORTE", ESPN HD 5
 http://181.78.79.131:8000/play/a0s5
 
-#EXTINF:-1 group-title="DEPORTE", ESPN HD 7
+#EXTINF:-1 group-title="DEPORTE", ESPN HD 6
 http://181.78.79.131:8000/play/a0s3
 
 #EXTINF:-1 group-title="TV", CANAL 1 HD
 http://181.78.79.131:8000/play/a0s2
 
+#EXTINF:-1 group-title="TV", CANAL CONGRESO
+http://181.78.8.199:8000/play/a0di/index.m3u8
+
 #EXTINF:-1 group-title="TV", CARACOL HD 
 http://181.78.79.131:8000/play/a0l0
+
+#EXTINF:-1 group-title="TV", CARACOL HD OP 2
+http://181.78.8.199:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 group-title="TV", RCN HD
+http://181.78.79.131:8000/play/a0l4
 
 #EXTINF:-1 group-title="Noticias", CNN EN ESPAÑOL
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
@@ -79,6 +88,9 @@ https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1 group-title="Noticias", DW NOTICIAS
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
+#EXTINF:-1 group-title="Noticias", CABLE NOTICIAS
+http://181.78.8.199:8000/play/a0e8/index.m3u8
+
 #EXTINF:-1 group-title="Radio", BLU RADIO
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 
@@ -88,14 +100,24 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 #EXTINF:-1 group-title="Colombia", SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Colombia", SEÑAL COLOMBIA OP 2
+http://181.78.79.131:8000/play/a0l7
+
 #EXTINF:-1 group-title="Colombia", CANAL INSTITUCIONAL
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Colombia", CANAL INSTITUCIONAL OP 2
+http://181.78.79.131:8000/play/a0l8
 
 #EXTINF:-1 group-title="Documentales", LOVE THEPLANET
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
 
 #EXTINF:-1 group-title="Radio", LA KALLE
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+
+#EXTINF:-1 group-title="Radio", LA KALLE OP 2
+http://181.78.79.131:8000/play/a0l3
 
 #EXTINF:-1 group-title="Retro", RETROPLUS 2
 https://scl.edge.grupoz.cl/retroplustvdos/live/chunklist_w349133620.m3u8
