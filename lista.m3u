@@ -26,11 +26,14 @@ http://181.78.79.131:8000/play/a0pp
 #EXTINF:-1 group-title="TV", DHE
 http://181.78.79.131:8000/play/a0qv
 
-#EXTINF:-1 group-title="TV", TELEMUNDO
-https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master_4.m3u8
+#EXTINF:-1 group-title="TV", TELEMUNDO ACCIÓN 
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 group-title="TV", AZTECA 7
 https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
+
+#EXTINF:-1 group-title="TV", CBS EN ESPAÑOL 
+https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 1
 http://8.243.126.131:8000/play/a05a/index.m3u8
@@ -101,7 +104,7 @@ https://amogonetworx-moconomy-1-es.lg.wurl.tv/playlist.m3u8
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 group-title="Noticias", DW NOTICIAS
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 group-title="Noticias", CABLE NOTICIAS
 http://181.78.8.199:8000/play/a0e8/index.m3u8
