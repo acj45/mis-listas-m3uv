@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="CINE", CINE PREMIUM
 http://181.78.12.119:16123/play/ch49/index.m3u8
 
-#EXTINF:-1 group-title="TV", DISNEY JR.
+#EXTINF:-1 group-title="INFANTIL", DISNEY JR.
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 group-title="TV", ENT FAMILY
@@ -100,9 +100,6 @@ https://amogonetworx-moconomy-1-es.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV", VISION TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
-#EXTINF:-1 group-title="Retro", RETRO PLUS
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-
 #EXTINF:-1 group-title="Noticias", DW NOTICIAS
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
@@ -124,24 +121,35 @@ http://181.78.79.131:8000/play/a0l7
 #EXTINF:-1 group-title="Colombia", CANAL INSTITUCIONAL
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Colombia", CANAL INSTITUCIONAL OP 2
 http://181.78.79.131:8000/play/a0l8
 
 #EXTINF:-1 group-title="Documentales", LOVE THEPLANET
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
 
-#EXTINF:-1 group-title="Radio", LA KALLE
+#EXTINF:-1 group-title="MUSICA", LA KALLE
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
-#EXTINF:-1 group-title="Radio", LA KALLE OP 2
+#EXTINF:-1 group-title="MUSICA", LA KALLE OP 2
 http://181.78.79.131:8000/play/a0l3
+
+#EXTINF:-1 group-title="MUSICA", TOTALMUSIC
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 group-title="MUSICA", TOTALMUSIC 2000s
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 group-title="MUSICA", TOTALMUSIC 80s
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 group-title="MUSICA", TOTALMUSIC DANCE
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 group-title="Retro", RETRO PLUS
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Retro", RETROPLUS 2
 https://scl.edge.grupoz.cl/retroplustvdos/live/chunklist_w349133620.m3u8
-
-#EXTINF:-1 group-title="Musica", MI GENTE 3.0
-https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/video.m3u8
 
 #EXTINF:-1 group-title="Musica", SUPER MUSICA TV
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
@@ -154,6 +162,12 @@ https://movil.ejeserver.com/live/canal4tv.m3u8
 
 #EXTINF:-1 group-title="Colombia", HUILA TV
 https://server.asilivehd.com:3333/live/huilatvlive.m3u8
+
+#EXTINF:-1 group-title="Colombia", ALPAVISION NEIVA
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia", CABLE SUR FLORENCIA 
+https://tvlatina.live:1936/8025/8025/playlist.m3u8
 
 #EXTINF:-1 group-title="TV", SURAM TV
 https://us.streaminghd.cl/suramtv/index.m3u8
