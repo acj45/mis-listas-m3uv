@@ -8,7 +8,10 @@ http://181.78.12.119:16123/play/ch49/index.m3u8
 #EXTINF:-1 group-title="CINE", CINE FAMILIAR 
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="CINE", HBO XTREME
+#EXTINF:-1 group-title="CINE", HBO 2 HD
+http://8.243.126.131:8000/play/a05o/index.m3u8?hls
+
+#EXTINF:-1 group-title="CINE", HBO XTREME HD
 http://181.78.79.131:8000/play/a0qy
 
 #EXTINF:-1 group-title="CINE", SPACE HD
@@ -22,6 +25,9 @@ http://181.78.79.131:8000/play/a0mw
 
 #EXTINF:-1 group-title="INFANTIL", DISNEY JR.
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 group-title="INFANTIL", ADULT SWIM HD
+http://24.152.42.29:8000/play/a07j/index.m3u8?hls
 
 #EXTINF:-1 group-title="TV", ENT FAMILY
 https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8  
@@ -41,6 +47,12 @@ http://181.78.79.131:8000/play/a0pp
 #EXTINF:-1 group-title="TV", DHE
 http://181.78.79.131:8000/play/a0qv
 
+#EXTINF:-1 group-title="TV", MULTIPREMIER HD
+http://24.152.42.29:8000/play/a06v/index.m3u8?hls
+
+#EXTINF:-1 group-title="TV", GOLDEN EDGE
+http://24.152.42.29:8000/play/a0b9/index.m3u8?hls
+
 #EXTINF:-1 group-title="TV", AZTECA 7
 https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
 
@@ -49,6 +61,12 @@ http://181.78.79.131:8000/play/a0mu
 
 #EXTINF:-1 group-title="TV", A&E HD
 http://181.78.79.131:8000/play/a0mt
+
+#EXTINF:-1 group-title="TV", UNIVISION HD
+http://24.152.42.29:8000/play/a0ba/index.m3u8?hls
+
+#EXTINF:-1 group-title="TV", TELEMUNDO HD
+http://24.152.42.29:8000/play/a07e/index.m3u8?hls
 
 #EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 1
 http://8.243.126.131:8000/play/a05a/index.m3u8
@@ -67,6 +85,9 @@ http://181.78.67.171:8000/play/a0wy/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", WIN SPORTS+ HD
 http://181.78.79.131:8000/play/a0n1
+
+#EXTINF:-1 group-title="DEPORTE", WIN SPORTS+ HD OP2
+http://205.235.6.29:8000/play/a10e/index.m3u8?hls
 
 #EXTINF:-1 group-title="DEPORTE", ESPN HD 1
 http://181.78.79.131:8000/play/a0s7
@@ -155,20 +176,17 @@ http://181.224.200.5:2277/play/a036/index.m3u8
 #EXTINF:-1 group-title="Documentales", LOVE THEPLANET
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
 
-#EXTINF:-1, HISTORY
-http://181.78.79.131:8000/play/a0st
+#EXTINF:-1, HISTORY HD
+http://24.152.42.29:8000/play/a071/index.m3u8?hls
 
 #EXTINF:-1, NAT GEO HD
-http://181.78.79.131:8000/play/a0pt
+http://24.152.42.29:8000/play/a05l/index.m3u8?hls
 
 #EXTINF:-1 group-title="MUSICA", LA KALLE
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
 #EXTINF:-1 group-title="MUSICA", LA KALLE OP 2
 http://181.78.79.131:8000/play/a0l3
-
-#EXTINF:-1 group-title="MUSICA", TOTALMUSIC
-https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 group-title="Retro", RETRO PLUS
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
@@ -178,6 +196,9 @@ https://scl.edge.grupoz.cl/retroplustvdos/live/chunklist_w349133620.m3u8
 
 #EXTINF:-1 group-title="Música", PLANCHA TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/plalist.m3u8
+
+#EXTINF:-1 group-title="Música", TELENOSTALGIA
+http://205.235.6.29:8000/play/a0yy/index.m3u8?hls
 
 #EXTINF:-1 group-title="TV", SURAM TV
 https://us.streaminghd.cl/suramtv/index.m3u8
