@@ -8,6 +8,9 @@ http://181.78.12.119:16123/play/ch49/index.m3u8
 #EXTINF:-1 group-title="CINE", CINE FAMILIAR 
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="CINE", HBO
+http://181.79.87.130:8000/play/a0ei/index.m3u8
+
 #EXTINF:-1 group-title="CINE", HBO 2 HD
 http://8.243.126.131:8000/play/a05o/index.m3u8?hls
 
@@ -31,6 +34,15 @@ http://190.61.101.11:7050/play/a077/index.m3u8?hls
 
 #EXTINF:-1 group-title="CINE", UNIVERSAL TV
 http://181.78.79.131:8000/play/a0mw
+
+#EXTINF:-1 group-title="CINE", UNIVERSAL PREMIERE
+http://209.87.175.160:5001/play/a0mo/index.m3u8?hls
+
+#EXTINF:-1 group-title="CINE", UNIVERSAL CINEMA
+http://209.87.175.160:5001/play/a0m1/index.m3u8?hls
+
+#EXTINF:-1 group-title="CINE", UNIVERSAL COMEDY
+http://209.87.175.160:5001/play/a0mh/index.m3u8?hls
 
 #EXTINF:-1 group-title="INFANTIL", DISNEY JR.
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
