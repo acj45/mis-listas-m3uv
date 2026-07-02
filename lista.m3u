@@ -62,8 +62,20 @@ http://181.78.79.131:8000/play/a0q0
 #EXTINF:-1 group-title="TV", AMC
 http://181.78.79.131:8000/play/a0n2
 
+#EXTINF:-1 group-title="TV", AMC SERIES HD
+http://24.152.42.29:8000/play/a06r/index.m3u8?hls
+
+#EXTINF:-1 group-title="CINE", TNT HD
+http://24.152.42.29:8000/play/a07h/index.m3u8?hls
+
+#EXTINF:-1 group-title="CINE", TNT SERIES HD
+http://24.152.42.29:8000/play/a07o/index.m3u8?hls
+
 #EXTINF:-1 group-title="TV", CINECANAL
 http://181.78.79.131:8000/play/a0pp
+
+#EXTINF:-1 group-title="TV", SONY HD
+http://24.152.42.29:8000/play/a06y/index.m3u8?hls
 
 #EXTINF:-1 group-title="TV", DHE
 http://181.78.79.131:8000/play/a0qv
