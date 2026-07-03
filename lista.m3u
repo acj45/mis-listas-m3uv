@@ -98,8 +98,14 @@ http://181.78.79.131:8000/play/a0mt
 #EXTINF:-1 group-title="TV", UNIVISION HD
 http://24.152.42.29:8000/play/a0ba/index.m3u8?hls
 
-#EXTINF:-1 group-title="TV", TELEMUNDO HD
-https://vishnu.indianservers.st/secure/WHLUiYNoYclVfsrilDedQssCXLiYoIQO/1783022400/1783049400/pc4k_portugal/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="DEPORTE", PEAKOCK 4K HEVC
+https://netanyahu.indianservers.st/secure/rmBPzfSaZjYqWZlWGpysiUwEqIWljonP/1783022400/1783049400/pc4k_portugal/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", TELEMUNDO HD 
+https://vishnu.indianservers.st/secure/MbKsTKdGQngTfRNkZeTWhIhLUAPHjjOY/1783022400/1783049400/telemundo/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="DEPORTE", DAZN
+https://shiva.indianservers.st/secure/AEdYxQPowlsMUQJeAZmTiihStTWYSOku/1783022400/1783049400/daznwc/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 1
 http://8.243.126.131:8000/play/a05a/index.m3u8
