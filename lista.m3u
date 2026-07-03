@@ -89,9 +89,6 @@ http://24.152.42.29:8000/play/a0b9/index.m3u8?hls
 #EXTINF:-1 group-title="TV", COMEDY CENTRAL
 http://181.78.79.131:8000/play/a0mu
 
-#EXTINF:-1 group-title="TV", DISTRITO COMEDIA
-http://190.61.101.11:7050/play/a04k/index.m3u8?hls
-
 #EXTINF:-1 group-title="TV", A&E HD
 http://181.78.79.131:8000/play/a0mt
 
@@ -101,11 +98,8 @@ http://24.152.42.29:8000/play/a0ba/index.m3u8?hls
 #EXTINF:-1 group-title="DEPORTE", PEAKOCK 4K HEVC
 https://shiva.indianservers.st/secure/ZFUQedStpsFJnoKaENoVSgdUbeyraajw/1783022400/1783049400/pc4k_portugal/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="DEPORTE", TELEMUNDO HD 
-https://shiva.indianservers.st/secure/ciAPYLFUGhknhnXDbGpKZtaOyokUTqfJ/1783022400/1783049400/telemundo/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTE", DAZN
-https://vishnu.indianservers.st/secure/pxkmhZhkrSjDPiWpcAOCIrncStQClDkO/1783022400/1783049400/telemundo/index.m3u8
+#EXTINF:-1 group-title="DEPORTE", DSPORTS+
+http://190.108.83.69:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 1
 http://8.243.126.131:8000/play/a05a/index.m3u8
