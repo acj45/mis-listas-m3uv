@@ -102,10 +102,10 @@ http://24.152.42.29:8000/play/a0ba/index.m3u8?hls
 https://shiva.indianservers.st/secure/ZFUQedStpsFJnoKaENoVSgdUbeyraajw/1783022400/1783049400/pc4k_portugal/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", TELEMUNDO HD 
-https://vishnu.indianservers.st/secure/MbKsTKdGQngTfRNkZeTWhIhLUAPHjjOY/1783022400/1783049400/telemundo/tracks-v1a1/mono.ts.m3u8
+https://shiva.indianservers.st/secure/ciAPYLFUGhknhnXDbGpKZtaOyokUTqfJ/1783022400/1783049400/telemundo/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", DAZN
-https://shiva.indianservers.st/secure/AEdYxQPowlsMUQJeAZmTiihStTWYSOku/1783022400/1783049400/daznwc/tracks-v1a1/mono.ts.m3u8
+https://vishnu.indianservers.st/secure/pxkmhZhkrSjDPiWpcAOCIrncStQClDkO/1783022400/1783049400/telemundo/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", DSPORTS OPC 1
 http://8.243.126.131:8000/play/a05a/index.m3u8
