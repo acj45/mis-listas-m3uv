@@ -92,6 +92,9 @@ http://181.78.79.131:8000/play/a0mu
 #EXTINF:-1 group-title="TV", A&E HD
 http://181.78.79.131:8000/play/a0mt
 
+#EXTINF:-1 group-title="TV", Canal 5 HD
+http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
+
 #EXTINF:-1 group-title="TV", UNIVISION HD
 http://24.152.42.29:8000/play/a0ba/index.m3u8?hls
 
@@ -146,11 +149,17 @@ http://181.78.8.199:8000/play/a0di/index.m3u8
 #EXTINF:-1 group-title="TV", CARACOL HD 
 http://181.78.79.131:8000/play/a0l0
 
-#EXTINF:-1 group-title="TV", CARACOL HD OP 2
-http://181.78.8.199:8000/play/a0b0/index.m3u8
+#EXTINF:-1 group-title="TV", CARACOL OP 2
+http://138.121.15.230:9002/CARACOL/index.m3u8
+
+#EXTINF:-1 group-title="TV", CARACOL HD 2
+http://181.78.14.26:4000/play/a00d/index.m3u8
 
 #EXTINF:-1 group-title="TV", RCN HD
 http://181.78.79.131:8000/play/a0l4
+
+#EXTINF:-1 group-title="TV", RCN HD OP 2
+http://138.121.15.230:9002/RCN/index.m3u8
 
 #EXTINF:-1 group-title="TV", CITY TV
 http://181.78.79.131:8000/play/a0si
