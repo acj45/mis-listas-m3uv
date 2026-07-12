@@ -8,6 +8,9 @@ http://181.78.12.119:16123/play/ch49/index.m3u8
 #EXTINF:-1 group-title="CINE", CINE FAMILIAR 
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="CINE", RUN:TIME
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+
 #EXTINF:-1 group-title="CINE", HBO
 http://181.79.87.130:8000/play/a0ei/index.m3u8
 
@@ -29,26 +32,11 @@ http://181.78.79.131:8000/play/a0q2
 #EXTINF:-1 group-title="CINE", WARNER HD
 http://181.78.79.131:8000/play/a0pz
 
-#EXTINF:-1 group-title="CINE", STAR CHANNEL
-http://190.61.101.11:7050/play/a077/index.m3u8?hls
-
 #EXTINF:-1 group-title="CINE", UNIVERSAL TV
 http://181.78.79.131:8000/play/a0mw
 
-#EXTINF:-1 group-title="CINE", UNIVERSAL PREMIERE
-http://209.87.175.160:5001/play/a0mo/index.m3u8?hls
-
-#EXTINF:-1 group-title="CINE", UNIVERSAL CINEMA
-http://209.87.175.160:5001/play/a0m1/index.m3u8?hls
-
-#EXTINF:-1 group-title="CINE", UNIVERSAL COMEDY
-http://209.87.175.160:5001/play/a0mh/index.m3u8?hls
-
 #EXTINF:-1 group-title="INFANTIL", DISNEY JR.
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 group-title="INFANTIL", ADULT SWIM HD
-http://24.152.42.29:8000/play/a07j/index.m3u8?hls
 
 #EXTINF:-1 group-title="TV", ENT FAMILY
 https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8  
@@ -62,41 +50,17 @@ http://181.78.79.131:8000/play/a0q0
 #EXTINF:-1 group-title="TV", AMC
 http://181.78.79.131:8000/play/a0n2
 
-#EXTINF:-1 group-title="TV", AMC SERIES HD
-http://24.152.42.29:8000/play/a06r/index.m3u8?hls
-
-#EXTINF:-1 group-title="CINE", TNT HD
-http://24.152.42.29:8000/play/a07h/index.m3u8?hls
-
-#EXTINF:-1 group-title="CINE", TNT SERIES HD
-http://24.152.42.29:8000/play/a07o/index.m3u8?hls
-
 #EXTINF:-1 group-title="TV", CINECANAL
 http://181.78.79.131:8000/play/a0pp
 
-#EXTINF:-1 group-title="TV", SONY HD
-http://24.152.42.29:8000/play/a06y/index.m3u8?hls
-
 #EXTINF:-1 group-title="TV", DHE
 http://181.78.79.131:8000/play/a0qv
-
-#EXTINF:-1 group-title="TV", MULTIPREMIER HD
-http://24.152.42.29:8000/play/a06v/index.m3u8?hls
-
-#EXTINF:-1 group-title="TV", GOLDEN EDGE
-http://24.152.42.29:8000/play/a0b9/index.m3u8?hls
 
 #EXTINF:-1 group-title="TV", COMEDY CENTRAL
 http://181.78.79.131:8000/play/a0mu
 
 #EXTINF:-1 group-title="TV", A&E HD
 http://181.78.79.131:8000/play/a0mt
-
-#EXTINF:-1 group-title="TV", Canal 5 HD
-http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
-
-#EXTINF:-1 group-title="TV", UNIVISION HD
-http://24.152.42.29:8000/play/a0ba/index.m3u8?hls
 
 #EXTINF:-1 group-title="DEPORTE", DSPORTS
 http://8.243.126.131:8000/play/a05a/index.m3u8
