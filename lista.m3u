@@ -143,6 +143,9 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 group-title="Economía", ECONOMIA & FINANZAS
 https://amogonetworx-moconomy-1-es.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="TV", CGTN ESPAÑOL
+https://espanol-livetx-h5.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?wsSecret=9e0f39a905e8502c33b9d9d121fb01b7&wsTime=1783910377
+
 #EXTINF:-1 group-title="TV", VISION TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
