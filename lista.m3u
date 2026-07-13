@@ -59,6 +59,9 @@ http://181.78.79.131:8000/play/a0qv
 #EXTINF:-1 group-title="TV", COMEDY CENTRAL
 http://181.78.79.131:8000/play/a0mu
 
+#EXTINF:-1 group-title="TV", DISTRITO COMEDIA
+http://201.77.60.62:8002/play/a0on/index.m3u8?hls
+
 #EXTINF:-1 group-title="TV", A&E HD
 http://181.78.79.131:8000/play/a0mt
 
@@ -181,6 +184,15 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
 #EXTINF:-1 group-title="MUSICA", LA KALLE OP 2
 http://181.78.79.131:8000/play/a0l3
+
+#EXTINF:-1 group-title="MUSICA", MIMUSICA HD POPULAR
+http://201.77.60.62:8002/play/a0nz/index.m3u8?hls
+
+#EXTINF:-1 group-title="MUSICA", TELERITMO
+http://209.87.175.160:5001/play/a0ml/index.m3u8?hls
+
+#EXTINF:-1 group-title="MUSICA", MIMUSICA HD REGGEATON
+http://201.77.60.62:8002/play/a0ny/index.m3u8?hls
 
 #EXTINF:-1 group-title="Retro", RETRO PLUS
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
