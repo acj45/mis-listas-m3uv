@@ -6,7 +6,10 @@
 http://181.78.12.119:16123/play/ch49/index.m3u8
 
 #EXTINF:-1 group-title="CINE", CINE FAMILIAR 
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinefamiliar.stream/playlist.m3u8
+http://181.78.12.119:16123/play/ch52/index.m3u8
+
+#EXTINF:-1 group-title="CINE", CINE HISPANO
+http://181.78.12.119:16123/play/ch51/index.m3u8
 
 #EXTINF:-1 group-title="CINE", FMH Movies HD
 http://38.210.3.64:8090/play/a0gl/index.m3u8
@@ -159,7 +162,7 @@ http://138.121.15.230:9002/RCN/index.m3u8
 http://181.78.12.119:16123/play/a0aq/index.m3u8
 
 #EXTINF:-1 group-title="TV", CITY TV
-http://181.78.79.131:8000/play/a0si
+http://181.78.12.119:16123/play/ch42/index.m3u8
 
 #EXTINF:-1 group-title="TV", CRISTOVISION
 http://181.78.12.119:16123/play/ch39/index.m3u8
@@ -168,7 +171,7 @@ http://181.78.12.119:16123/play/ch39/index.m3u8
 http://181.224.200.5:2277/play/a026/index.m3u8
 
 #EXTINF:-1 group-title="Noticias", CNN EN ESPAÑOL
-http://181.78.79.131:8000/play/a0p3
+http://181.78.12.119:16123/play/ch73/index.m3u8
 
 #EXTINF:-1 group-title="Noticias", RT NOTICIAS
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -209,9 +212,6 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 #EXTINF:-1 group-title="Colombia", CANAL INSTITUCIONAL OP 2
 http://181.78.79.131:8000/play/a0l8
 
-#EXTINF:-1,LOVE NATURE
-http://181.224.200.5:2277/play/a036/index.m3u8
-
 #EXTINF:-1 group-title="Documentales", LOVE THEPLANET
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
 
@@ -231,7 +231,7 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 http://181.78.79.131:8000/play/a0l3
 
 #EXTINF:-1 group-title="MUSICA", MIMUSICA HD POPULAR
-http://201.77.60.62:8002/play/a0nz/index.m3u8?hls
+http://181.78.12.119:16123/play/ch56/index.m3u8
 
 #EXTINF:-1 group-title="MUSICA", MI MUSICA ROMANTICA
 http://181.78.12.119:16123/play/ch54/index.m3u8
@@ -254,20 +254,8 @@ http://181.78.211.244:8005/play/a0a1/index.m3u8
 #EXTINF:-1 group-title="MUSICA", MIMUSICA HD REGGEATON
 http://201.77.60.62:8002/play/a0ny/index.m3u8?hls
 
-#EXTINF:-1 group-title="MUSICA", MIMUSICA HD HTS
-http://38.188.186.47:4000/play/fj01/index.m3u8
-
 #EXTINF:-1 group-title="MUSICA", TELEHIT HD
 http://179.60.224.196:8000/play/a0g1/index.m3u8
-
-#EXTINF:-1 group-title="MUSICA", MIMUSICA HD SALSA
-http://38.137.192.250:8000/play/a0cc
-
-#EXTINF:-1 group-title="MUSICA", STUDIO 29
-http://38.210.3.64:8090/play/a0p7/index.m3u8
-
-#EXTINF:-1 group-title="Retro", RETRO PLUS
-https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Retro", RETROPLUS 2
 https://scl.edge.grupoz.cl/retroplustvdos/live/chunklist_w349133620.m3u8
@@ -310,9 +298,6 @@ https://acceso.mediosdecostarica.com:3606/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="TV", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8  
-
-#EXTINF:-1 group-title="TV", XTREMA TV
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 group-title="TV", MEGA CINE
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8 
