@@ -161,14 +161,8 @@ http://181.78.12.119:16123/play/ch39/index.m3u8
 #EXTINF:-1 group-title="Noticias", NTN24
 http://181.78.8.199:8000/play/a0a6/index.m3u8
 
-#EXTINF:-1 group-title="Noticias", CNN EN ESPAÑOL
-http://181.78.12.119:16123/play/ch73/index.m3u8
-
 #EXTINF:-1 group-title="Noticias", RT NOTICIAS
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 group-title="Noticias", NEWSMAX SPANISH
-https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8
 
 #EXTINF:-1 group-title="Economía", ECONOMIA & FINANZAS
 https://amogonetworx-moconomy-1-es.lg.wurl.tv/playlist.m3u8
@@ -204,7 +198,7 @@ http://181.78.79.131:8000/play/a0l8
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
 
 #EXTINF:-1, HISTORY HD
-http://24.152.42.29:8000/play/a071/index.m3u8?hls
+http://8.243.126.131:8000/play/a05c
 
 #EXTINF:-1, HISTORY 2
 http://181.78.12.119:16123/play/a0da/index.m3u8
@@ -239,8 +233,11 @@ http://181.78.211.244:8005/play/a06t/index.m3u8
 #EXTINF:-1 group-title="MUSICA", RUMBA TV
 http://181.78.211.244:8005/play/a0a1/index.m3u8
 
-#EXTINF:-1 group-title="MUSICA", TELEHIT HD
-http://179.60.224.196:8000/play/a0g1/index.m3u8
+#EXTINF:-1 group-title="MUSICA", REGGAETON
+http://181.78.12.119:16123/play/ch53
+
+#EXTINF:-1 group-title="MUSICA",  MIX MUSIC CHANNEL
+https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Retro", RETROPLUS 2
 https://scl.edge.grupoz.cl/retroplustvdos/live/chunklist_w349133620.m3u8
