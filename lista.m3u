@@ -50,9 +50,6 @@ http://181.78.79.131:8000/play/a0pz
 #EXTINF:-1 group-title="CINE", UNIVERSAL TV
 http://181.78.79.131:8000/play/a0mw
 
-#EXTINF:-1 group-title="CINE", USA HD
-http://200.115.120.1:8000/play/ca151/index.m3u8
-
 #EXTINF:-1 group-title="INFANTIL", DISNEY JR.
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -79,9 +76,6 @@ http://181.78.79.131:8000/play/a0qv
 
 #EXTINF:-1 group-title="TV", COMEDY CENTRAL
 http://181.78.79.131:8000/play/a0mu
-
-#EXTINF:-1 group-title="TV", DISTRITO COMEDIA
-http://201.77.60.62:8002/play/a0on/index.m3u8?hls
 
 #EXTINF:-1 group-title="TV", A&E HD
 http://181.78.79.131:8000/play/a0mt
@@ -242,14 +236,8 @@ http://38.97.240.11:8000/play/a0nl/index.m3u8
 #EXTINF:-1 group-title="MUSICA", SOUN LATINO 
 http://181.78.211.244:8005/play/a06t/index.m3u8
 
-#EXTINF:-1 group-title="MUSICA", TELERITMO
-http://209.87.175.160:5001/play/a0ml/index.m3u8?hls
-
 #EXTINF:-1 group-title="MUSICA", RUMBA TV
 http://181.78.211.244:8005/play/a0a1/index.m3u8
-
-#EXTINF:-1 group-title="MUSICA", MIMUSICA HD REGGEATON
-http://201.77.60.62:8002/play/a0ny/index.m3u8?hls
 
 #EXTINF:-1 group-title="MUSICA", TELEHIT HD
 http://179.60.224.196:8000/play/a0g1/index.m3u8
@@ -277,9 +265,6 @@ https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 
 #EXTINF:-1 group-title="Colombia", CABLE SUR FLORENCIA 
 https://tvlatina.live:1936/8025/8025/playlist.m3u8
-
-#EXTINF:-1 group-title="Música", PORTAL FOX MIX
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
 #EXTINF:-1 group-title="Colombia", BUM TELEVISIÓN
 https://movil.ejeserver.com/live/visiondorada.m3u8
