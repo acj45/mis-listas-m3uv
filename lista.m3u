@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TV", CANAL 1 HD
-http://181.78.79.131:8000/play/a0s2
+http://138.121.15.230:9002/CANAL-UNO/index.m3u8
 
 #EXTINF:-1 group-title="Noticias", NTN24
 http://181.78.8.199:8000/play/a0a6/index.m3u8
@@ -14,19 +14,19 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 http://181.78.8.199:8000/play/a0e8/index.m3u8
 
 #EXTINF:-1 group-title="TV", CARACOL HD 
-http://181.78.79.131:8000/play/a0l0
+http://200.35.176.154:8000/play/a063/index.m3u8
 
-#EXTINF:-1 group-title="TV", CARACOL HD OP 2
+#EXTINF:-1 group-title="TV", CARACOL HD OP2
 http://181.78.211.244:8005/play/a0al/index.m3u8
 
 #EXTINF:-1 group-title="TV", CARACOL HD 2
 http://181.78.14.26:4000/play/a00d/index.m3u8
 
-#EXTINF:-1 group-title="TV", RCN HD
-http://181.78.79.131:8000/play/a0l4
+#EXTINF:-1 group-title="TV", RCN HD 
+http://181.78.12.119:16123/play/ch59/index.m3u8
 
-#EXTINF:-1 group-title="TV", RCN HD OP 2
-http://138.121.15.230:9002/RCN/index.m3u8
+#EXTINF:-1 group-title="TV", RCN HD OP2
+http://181.78.211.244:8005/play/a0ak/index.m3u8
 
 #EXTINF:-1 group-title="TV", RCN NUESTRA TELE
 http://181.78.12.119:16123/play/a0aq/index.m3u8
@@ -61,17 +61,17 @@ http://181.78.211.244:8005/play/a06y/index.m3u8
 #EXTINF:-1 group-title="MUSICA", LA KALLE
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 
-#EXTINF:-1 group-title="MUSICA", LA KALLE OP 2
-http://181.78.79.131:8000/play/a0l3
-
 #EXTINF:-1 group-title="MUSICA", MIMUSICA HD POPULAR
 http://181.78.12.119:16123/play/ch56/index.m3u8
 
 #EXTINF:-1 group-title="MUSICA", RANCHENATO
 http://181.78.12.119:16123/play/ch15/index.m3u8
 
-#EXTINF:-1 group-title="MUSICA", MI MUSICA ROMANTICA
-http://181.78.12.119:16123/play/ch54/index.m3u8
+#EXTINF:-1 group-title="MUSICA", FIESTA TV
+https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
+
+#EXTINF:-1 group-title="MUSICA", RUMBA TV
+http://181.78.211.244:8005/play/a0a1/index.m3u8
 
 #EXTINF:-1 group-title="MUSICA", CANTINA TV
 http://38.97.240.11:8000/play/a0nl/index.m3u8
@@ -79,14 +79,14 @@ http://38.97.240.11:8000/play/a0nl/index.m3u8
 #EXTINF:-1 group-title="TV", SURAM TV
 https://us.streaminghd.cl/suramtv/index.m3u8
 
+#EXTINF:-1 group-title="MUSICA", MI MUSICA ROMANTICA
+http://181.78.12.119:16123/play/ch54/index.m3u8
+
 #EXTINF:-1 group-title="Música", PLANCHA TV
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/plalist.m3u8
 
 #EXTINF:-1 group-title="MUSICA", SOUN LATINO 
 http://181.78.211.244:8005/play/a06t/index.m3u8
-
-#EXTINF:-1 group-title="MUSICA", RUMBA TV
-http://181.78.211.244:8005/play/a0a1/index.m3u8
 
 #EXTINF:-1 group-title="MUSICA", REGGAETON
 http://181.78.12.119:16123/play/ch53
@@ -165,6 +165,9 @@ http://181.78.79.131:8000/play/a0q0
 
 #EXTINF:-1 group-title="TV", AMC
 http://181.78.79.131:8000/play/a0n2
+
+#EXTINF:-1 group-title="CINE", MULTICINEMA
+http://8.243.126.131:8000/play/a0jx/index.m3u8
 
 #EXTINF:-1 group-title="TV", CINECANAL
 http://181.78.79.131:8000/play/a0pp
