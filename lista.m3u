@@ -14,18 +14,24 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 http://181.78.8.199:8000/play/a0e8/index.m3u8
 
 #EXTINF:-1 group-title="TV", CARACOL HD 
-http://181.79.87.130:8000/play/a0es/index.m3u8
-
-#EXTINF:-1 group-title="TV", CARACOL HD OP2
-http://181.78.211.244:8005/play/a0al/index.m3u8
+http://181.225.190.242:8000/play/a00p
 
 #EXTINF:-1 group-title="TV", CARACOL HD 2
-http://181.78.14.26:4000/play/a00d/index.m3u8
+http://152.231.29.139:8000/play/a0jz/index.m3u8
+
+#EXTINF:-1 group-title="TV", CARACOL HD 3
+http://181.78.8.199:8000/play/a0hw/index.m3u8
+
+#EXTINF:-1 group-title="TV", CARACOL SD
+http://190.60.48.149:8000/play/CARACOL_HD_2
 
 #EXTINF:-1 group-title="TV", RCN HD 
+http://181.225.190.242:8000/play/a02n
+
+#EXTINF:-1 group-title="TV", RCN HD 2
 http://181.78.12.119:16123/play/ch59/index.m3u8
 
-#EXTINF:-1 group-title="TV", RCN HD OP2
+#EXTINF:-1 group-title="TV", RCN HD 3
 http://181.78.211.244:8005/play/a0ak/index.m3u8
 
 #EXTINF:-1 group-title="TV", RCN NUESTRA TELE
@@ -152,7 +158,7 @@ http://181.78.79.131:8000/play/a0mw
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 group-title="INFANTIL", Dreamworks HD
-http://148.230.149.45:1021/play/a08g/index.m3u8
+http://190.238.43.117:9000/play/a0iq/index.m3u8
 
 #EXTINF:-1 group-title="TV", ENT FAMILY
 https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8  
@@ -202,25 +208,23 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 group-title="DEPORTE", DSPORTS
 http://190.117.20.37:8000/play/a08d/index.m3u
 
+#EXTINF:-1 group-title="DEPORTE", DSPORTS 2
+http://200.59.191.177:8000/play/a00h/index.m3u8?hls
 
+#EXTINF:-1 group-title="DEPORTE", DSPORTS 3
+http://45.186.254.75:8000/play/a0en/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", DSPORTS+
 http://190.108.83.69:8000/play/a05w/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTE", DSPORTS 2 
-http://181.64.27.65:8000/play/a0dq/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", WIN SPORTS HD
 http://181.78.67.171:8000/play/a0wy/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", WIN SPORTS+ HD
-http://181.78.79.131:8000/play/a0n1
+http://186.148.163.17:8000/play/a06c/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", WIN SPORTS+ HD OP2
-http://190.217.66.92:8000/play/a0qs/index.m3u8u?hls
-
-
-http://209.87.175.160:5001/play/a0ll/index.m3u8?hls
+http://181.119.86.1:8000/play/a0d4
 
 #EXTINF:-1 group-title="DEPORTE", ESPN HD 1
 http://181.78.79.131:8000/play/a0s7
