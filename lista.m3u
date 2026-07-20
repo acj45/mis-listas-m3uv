@@ -7,6 +7,9 @@ http://138.121.15.230:9002/CANAL-UNO/index.m3u8
 #EXTINF:-1 group-title="Noticias", NTN24
 http://181.224.255.210:8001/play/a0qp/index.m3u8?hls
 
+#EXTINF:-1 group-title="Noticias", NOTICIAS RCN
+https://aka-live1050.delivery.roku.com/63a55317-8cde-4c4a-9a5f-3e6a97ae7c9e/t2-origin/out/v1/live.m3u8
+
 #EXTINF:-1 group-title="Radio", BLU RADIO
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 
@@ -32,7 +35,7 @@ http://181.225.190.242:8000/play/a02n
 http://181.78.12.119:16123/play/ch59/index.m3u8
 
 #EXTINF:-1 group-title="TV", RCN HD 3
-http://181.78.211.244:8005/play/a0ak/index.m3u8
+http://138.121.15.230:9002/RCN/index.m3u8
 
 #EXTINF:-1 group-title="TV", RCN NUESTRA TELE
 http://181.78.12.119:16123/play/a0aq/index.m3u8
@@ -158,7 +161,7 @@ http://181.78.79.131:8000/play/a0mw
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 group-title="INFANTIL", Dreamworks HD
-http://190.238.43.117:9000/play/a0iq/index.m3u8
+http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 
 #EXTINF:-1 group-title="TV", ENT FAMILY
 https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8  
