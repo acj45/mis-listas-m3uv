@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TV", CANAL 1 HD
-http://138.121.15.230:9002/CANAL-UNO/index.m3u8
+http://181.78.8.199:8000/play/a0cz/index.m3u8
 
 #EXTINF:-1 group-title="Noticias", NTN24
 http://181.224.255.210:8001/play/a0qp/index.m3u8?hls
@@ -123,6 +123,9 @@ http://38.210.3.64:8090/play/a0gj/index.m3u8
 
 #EXTINF:-1 group-title="CINE", FMH Kids HD
 http://38.210.3.64:8090/play/a0gk/index.m3u8
+
+#EXTINF:-1 group-title="CINE", BITME
+http://181.78.8.199:8000/play/a0ga/index.m3u8
 
 #EXTINF:-1 group-title="CINE", RUN:TIME
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
