@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TV", CANAL 1 HD
-http://181.78.8.199:8000/play/a0cz/index.m3u8
+http://181.78.12.119:16123/play/ch63/index.m3u8
 
 #EXTINF:-1 group-title="Noticias", NTN24
 http://181.224.200.5:2277/play/a026/index.m3u8
@@ -28,16 +28,19 @@ http://152.231.29.139:8000/play/a0jz/index.m3u8
 #EXTINF:-1 group-title="TV", CARACOL HD 3
 http://181.78.8.199:8000/play/a0hw/index.m3u8
 
-#EXTINF:-1 group-title="TV", CARACOL SD
-http://190.60.48.149:8000/play/CARACOL_HD_2
+#EXTINF:-1 group-title="TV", CARACOL HD 4
+http://181.78.211.244:8005/play/a0al/index.m3u8
 
 #EXTINF:-1 group-title="TV", RCN HD 
+http://181.78.211.244:8005/play/a0ak/index.m3u8
+
+#EXTINF:-1 group-title="TV", RCN HD OP1
 http://181.225.190.242:8000/play/a02n
 
-#EXTINF:-1 group-title="TV", RCN HD 2
+#EXTINF:-1 group-title="TV", RCN HD OP2
 http://181.78.12.119:16123/play/ch59/index.m3u8
 
-#EXTINF:-1 group-title="TV", RCN HD 3
+#EXTINF:-1 group-title="TV", RCN HD OP3
 http://138.121.15.230:9002/RCN/index.m3u8
 
 #EXTINF:-1 group-title="TV", RCN NUESTRA TELE
@@ -61,14 +64,11 @@ http://181.78.12.119:16123/play/ch69/index.m3u8
 #EXTINF:-1 group-title="TV", CRISTOVISION
 http://181.78.12.119:16123/play/ch39/index.m3u8
 
-#EXTINF:-1 group-title="TV", - AGRO TV
+#EXTINF:-1 group-title="TV", AGRO TV
 http://205.235.6.29:8000/play/a0xe/index.m3u8?hls
 
 #EXTINF:-1 group-title="Música", TELENOSTALGIA
 http://181.78.211.244:8005/play/a06y/index.m3u8
-
-#EXTINF:-1 group-title="Música", TELENOSTALGIA OP2
-http://205.235.6.29:8000/play/a0yy/index.m3u8?hls
 
 #EXTINF:-1 group-title="MUSICA", LA KALLE
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
@@ -229,13 +229,13 @@ http://45.186.254.75:8000/play/a0en/index.m3u8
 #EXTINF:-1 group-title="DEPORTE", DSPORTS+
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTE", WIN SPORTS HD
+#EXTINF:-1 group-title="DEPORTE", WIN SPORTS 
 http://181.78.67.171:8000/play/a0wy/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTE", WIN SPORTS+ HD
-http://186.148.163.17:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="DEPORTE", WIN SPORTS OP1
+http://181.78.211.244:8005/play/a0am/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTE", WIN SPORTS+ HD OP2
+#EXTINF:-1 group-title="DEPORTE", WIN SPORTS+
 http://181.119.86.1:8000/play/a0d4
 
 #EXTINF:-1 group-title="DEPORTE", ESPN HD 1
