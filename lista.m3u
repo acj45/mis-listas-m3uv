@@ -31,13 +31,13 @@ http://181.78.8.199:8000/play/a0hw/index.m3u8
 #EXTINF:-1 group-title="TV", CARACOL HD 4
 http://181.78.211.244:8005/play/a0al/index.m3u8
 
-#EXTINF:-1 group-title="TV", RCN HD OP1
+#EXTINF:-1 group-title="TV", RCN HD 
 http://181.225.190.242:8000/play/a02n
 
-#EXTINF:-1 group-title="TV", RCN HD OP2
+#EXTINF:-1 group-title="TV", RCN HD OP1
 http://181.78.12.119:16123/play/ch59/index.m3u8
 
-#EXTINF:-1 group-title="TV", RCN HD OP3
+#EXTINF:-1 group-title="TV", RCN HD OP2
 http://138.121.15.230:9002/RCN/index.m3u8
 
 #EXTINF:-1 group-title="TV", RCN NUESTRA TELE
@@ -277,20 +277,29 @@ https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/YQgtiCJoeIAkrDzeKn
 #EXTINF:-1 group-title="Documentales", LOVE THEPLANET
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
 
-#EXTINF:-1, HISTORY HD
+#EXTINF:-1 group-title="Documentales", NATURE TIME
+https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/kVE9k6fFC9OmRJQqh1uQY0Xi9y4XBnPykQk452EySKFQjuOQrsUsZFlx4G-9PHd8pc3v6ylD2e3SAdWAIeT5a0o4kYKen5p4sZ-BVo4Ld5zVlxcNRVEFHk1NTtyyQfEJf9mbwHjpcDFh7tWhsBXig9E9UM_SUqVObgMW0ztyYW1DKFIgSC1xzRpKRpV3bhBBBwRK_f_nGpfFCqA6cYmDa2t4B7oltmrLyofCvGELxwRM_y-N2mnGP01fFRhhNs6t/hls/index.m3u8
+
+#EXTINF:-1 group-title="Documentales", HISTORY HD
 http://190.108.83.69:8000/play/a0b6/index.m3u8
 
-#EXTINF:-1, HISTORY 2
+#EXTINF:-1 group-title="Documentales", HISTORY  OP1
+http://190.108.83.69:8000/play/a0b6/index.m3u8
+
+#EXTINF:-1 group-title="Documentales", HISTORY 2
 http://181.78.12.119:16123/play/a0da/index.m3u8
 
-#EXTINF:-1, HISTORY 2 OP2
-http://190.108.83.69:8000/play/a0b6/index.m3u8
-
-#EXTINF:-1, National Geographic HD
+#EXTINF:-1 group-title="Documentales", National Geographic HD
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
 
-#EXTINF:-1, National Geographic HD OP 2
+#EXTINF:-1 group-title="Documentales", National Geographic HD OP1
 http://45.162.193.35/NATGEO/index.m3u8
+
+#EXTINF:-1 group-title="Documentales", National Geographic HD ESPAÑA
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/o3ZQDp4r5mz4E0WOamqmji-mKQe1oxlFxg6dJs5X5X01oZTXf_r95KZwQ7dOwDXqgN2sjd2Mw_0dLpmVQZmmTePjI-_Jcs63DRbuiSTSkkvsMieD68JXtVAWXJk8TRsTZA67DLDPWow9JC0sb-lm81jsG0CI4_iUcCG55EBmEFxIpYzZrmNIWXFFm_Oqr5LZbJJyMia__sdLA3aL1okYcq5fxGlHn42tupRvH80S4Ykov8jc8xn4xHmqr4E_NJdQ/hls/index.m3u8
+
+#EXTINF:-1 group-title="Documentales" DISCOVERY ESPAÑA
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/LYyCj7u3lreOHnsU9MYW1_h2SeIdrO2HL-ki8nHOEOzz06rcaPGudtHQJ23tKszW0EtW7Rd7bAswm7afa7fOiMt5H1t1nOOik8dH0k8fZ2aRgCSqllYvrvO9CjLVD4IFWHAZwHVZRm3JIQ1GJgKPNPQqnh0TvzVb0aQZ_AKbJoNbeGQqeVnwP57ZaIUawRfXfIgkT2Ru2_1uqRiLhbaOe92twVuTJTzuHcnys_I1IAzOY3TA5ORh-8RRFX9hHEK9/hls/index.m3u8
 
 #EXTINF:-1 group-title="TV", TV SAMANIEGO
 https://movil.ejeserver.com/live/canal4tv.m3u8
