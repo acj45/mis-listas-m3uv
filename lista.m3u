@@ -31,9 +31,6 @@ http://181.78.8.199:8000/play/a0hw/index.m3u8
 #EXTINF:-1 group-title="TV", CARACOL HD 4
 http://181.78.211.244:8005/play/a0al/index.m3u8
 
-#EXTINF:-1 group-title="TV", RCN HD 
-http://181.78.211.244:8005/play/a0ak/index.m3u8
-
 #EXTINF:-1 group-title="TV", RCN HD OP1
 http://181.225.190.242:8000/play/a02n
 
@@ -272,7 +269,10 @@ https://amogonetworx-moconomy-1-es.lg.wurl.tv/playlist.m3u8
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 group-title="Noticias", DW NOTICIAS
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 group-title="Documentales", ODISEA
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/YQgtiCJoeIAkrDzeKntc8yZFxbCTKITS4gcMY_iNEn1GrJbeUcjaALsQRNVo17bWEiZ_gWBkp1Rb8qJ6XHiaCn-074aoUrpOl3gEC3TGl-8fevdD3n6-5c0sBpvgVep0hL9_oYgh3HFOoRMmx5oUXkx_C092ZH6ydpM52C1sg37LrgK8ciLqJW8LIhtTxtsUk6oYtIW0ZK6p83PIUFMYDM6PvnhfYVTVjHJR0Dqeix9z9qfbfKT6uldpXsRCrFb4/hls/index.m3u8
 
 #EXTINF:-1 group-title="Documentales", LOVE THEPLANET
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
