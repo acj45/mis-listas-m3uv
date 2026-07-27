@@ -4,9 +4,6 @@
 #EXTINF:-1 group-title="TV", CANAL 1 HD
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(BkTofPl4mcvTjzD0ERZiOeyxxQ1Iq0sB5a2ZL9RVHl0EJstVDFPnfpAoPQEpP5paGVDZ225GOiK23T6EGp_Yl44WiDnyFJWMBVVieamUQGhi2cS98zw56w2DqHdz2xQV)/cloud/3/x9nvvkc/s/live-720.m3u8
 
-#EXTINF:-1 group-title="TV", CANAL 1 HD OP1
-http://181.78.12.119:16123/play/ch63/index.m3u8
-
 #EXTINF:-1 group-title="Noticias", NTN24
 http://181.224.200.5:2277/play/a026/index.m3u8
 
@@ -57,9 +54,6 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1
 
 #EXTINF:-1 group-title="Colombia", CANAL INSTITUCIONAL
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
-
-#EXTINF:-1 group-title="TV", CANAL CONGRESO
-http://181.78.12.119:16123/play/ch69/index.m3u8
 
 #EXTINF:-1 group-title="TV", CRISTOVISION
 http://181.78.12.119:16123/play/ch39/index.m3u8
@@ -274,14 +268,8 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 group-title="Noticias", DW NOTICIAS
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 
-#EXTINF:-1 group-title="Documentales", ODISEA
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/YQgtiCJoeIAkrDzeKntc8yZFxbCTKITS4gcMY_iNEn1GrJbeUcjaALsQRNVo17bWEiZ_gWBkp1Rb8qJ6XHiaCn-074aoUrpOl3gEC3TGl-8fevdD3n6-5c0sBpvgVep0hL9_oYgh3HFOoRMmx5oUXkx_C092ZH6ydpM52C1sg37LrgK8ciLqJW8LIhtTxtsUk6oYtIW0ZK6p83PIUFMYDM6PvnhfYVTVjHJR0Dqeix9z9qfbfKT6uldpXsRCrFb4/hls/index.m3u8
-
 #EXTINF:-1 group-title="Documentales", LOVE THEPLANET
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
-
-#EXTINF:-1 group-title="Documentales", NATURE TIME
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/kVE9k6fFC9OmRJQqh1uQY0Xi9y4XBnPykQk452EySKFQjuOQrsUsZFlx4G-9PHd8pc3v6ylD2e3SAdWAIeT5a0o4kYKen5p4sZ-BVo4Ld5zVlxcNRVEFHk1NTtyyQfEJf9mbwHjpcDFh7tWhsBXig9E9UM_SUqVObgMW0ztyYW1DKFIgSC1xzRpKRpV3bhBBBwRK_f_nGpfFCqA6cYmDa2t4B7oltmrLyofCvGELxwRM_y-N2mnGP01fFRhhNs6t/hls/index.m3u8
 
 #EXTINF:-1 group-title="Documentales", HISTORY HD
 http://190.108.83.69:8000/play/a0b6/index.m3u8
@@ -297,12 +285,6 @@ http://138.121.15.230:9002/NAT-GEO/index.m3u8
 
 #EXTINF:-1 group-title="Documentales", National Geographic HD OP1
 http://45.162.193.35/NATGEO/index.m3u8
-
-#EXTINF:-1 group-title="Documentales", National Geographic HD ESPAÑA
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/o3ZQDp4r5mz4E0WOamqmji-mKQe1oxlFxg6dJs5X5X01oZTXf_r95KZwQ7dOwDXqgN2sjd2Mw_0dLpmVQZmmTePjI-_Jcs63DRbuiSTSkkvsMieD68JXtVAWXJk8TRsTZA67DLDPWow9JC0sb-lm81jsG0CI4_iUcCG55EBmEFxIpYzZrmNIWXFFm_Oqr5LZbJJyMia__sdLA3aL1okYcq5fxGlHn42tupRvH80S4Ykov8jc8xn4xHmqr4E_NJdQ/hls/index.m3u8
-
-#EXTINF:-1 group-title="Documentales" DISCOVERY ESPAÑA
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/LYyCj7u3lreOHnsU9MYW1_h2SeIdrO2HL-ki8nHOEOzz06rcaPGudtHQJ23tKszW0EtW7Rd7bAswm7afa7fOiMt5H1t1nOOik8dH0k8fZ2aRgCSqllYvrvO9CjLVD4IFWHAZwHVZRm3JIQ1GJgKPNPQqnh0TvzVb0aQZ_AKbJoNbeGQqeVnwP57ZaIUawRfXfIgkT2Ru2_1uqRiLhbaOe92twVuTJTzuHcnys_I1IAzOY3TA5ORh-8RRFX9hHEK9/hls/index.m3u8
 
 #EXTINF:-1 group-title="TV", TV SAMANIEGO
 https://movil.ejeserver.com/live/canal4tv.m3u8
