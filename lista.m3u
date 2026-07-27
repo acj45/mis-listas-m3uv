@@ -2,7 +2,8 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TV", CANAL 1 HD
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(BkTofPl4mcvTjzD0ERZiOeyxxQ1Iq0sB5a2ZL9RVHl0EJstVDFPnfpAoPQEpP5paGVDZ225GOiK23T6EGp_Yl44WiDnyFJWMBVVieamUQGhi2cS98zw56w2DqHdz2xQV)/cloud/3/x9nvvkc/s/live-720.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(OdbKMbzIN2WCO1kcXlYE36Bz7gL-gfD8gwW5ZoeqwvisL6WaEN3IIaw10tjklxuICgP4Nna1a5dUxsT-QIdIgwEbvktuZa4l29C3ZwhX3zbHziuwRGNfkOzdU9qCq9pv)/cloud/3/x9nvvkc/s/live-720.m3u8
+
 
 #EXTINF:-1 group-title="Noticias", NTN24
 http://181.224.200.5:2277/play/a026/index.m3u8
