@@ -2,6 +2,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TV", CANAL 1 HD
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(BkTofPl4mcvTjzD0ERZiOeyxxQ1Iq0sB5a2ZL9RVHl0EJstVDFPnfpAoPQEpP5paGVDZ225GOiK23T6EGp_Yl44WiDnyFJWMBVVieamUQGhi2cS98zw56w2DqHdz2xQV)/cloud/3/x9nvvkc/s/live-720.m3u8
+
+#EXTINF:-1 group-title="TV", CANAL 1 HD OP1
 http://181.78.12.119:16123/play/ch63/index.m3u8
 
 #EXTINF:-1 group-title="Noticias", NTN24
@@ -50,10 +53,10 @@ http://181.78.12.119:16123/play/ch42/index.m3u8
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
 #EXTINF:-1 group-title="Colombia", SEÑAL COLOMBIA
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 group-title="Colombia", CANAL INSTITUCIONAL
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 
 #EXTINF:-1 group-title="TV", CANAL CONGRESO
 http://181.78.12.119:16123/play/ch69/index.m3u8
