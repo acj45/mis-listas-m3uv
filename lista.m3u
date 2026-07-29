@@ -2,8 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TV", CANAL 1 HD
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(OdbKMbzIN2WCO1kcXlYE36Bz7gL-gfD8gwW5ZoeqwvisL6WaEN3IIaw10tjklxuICgP4Nna1a5dUxsT-QIdIgwEbvktuZa4l29C3ZwhX3zbHziuwRGNfkOzdU9qCq9pv)/cloud/3/x9nvvkc/s/live-720.m3u8
-
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(KHUPQs8r30QneK_NmhwAFR-FQx317uWeI5bAsNwV9S1NdMtVZgHjrSUEkfpXSavqcfNpD346pIRcsMFGgom3GNWJxqpfyaF3ulO1F3R6_J8P0YlbNPVu5qd-N0fFyDCW)/cloud/3/x9nvvkc/s/live-720.m3u8
 
 #EXTINF:-1 group-title="Noticias", NTN24
 http://181.224.200.5:2277/play/a026/index.m3u8
@@ -316,5 +315,295 @@ https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 
 #EXTINF:-1 group-title="TV", MEGA CINE
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8 
+
+DEPORTES COLOMBIA
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO | WIN SPORTS +  FHD" tvg-logo="http://mundo2.pro:80/images/13e0546dd2a121a888de5223ddf530dc.png" group-title="⚽DEPORTES COLOMBIA⚽",CO | WIN SPORTS +  FHD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1383.ts
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO | WIN SPORTS +  HD" tvg-logo="http://mundo2.pro:80/images/13e0546dd2a121a888de5223ddf530dc.png" group-title="⚽DEPORTES COLOMBIA⚽",CO | WIN SPORTS +  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1384.ts
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="CO | Win Sports + HD OP 02" tvg-logo="http://mundo2.pro:80/images/cf1a7657ce6424825327f193d3d30618.png" group-title="⚽DEPORTES COLOMBIA⚽",CO | Win Sports + HD OP 02
+http://somoseluno.blog:80/live/Bertha123/Bertha123/69291.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO | Win Sports+ 4K" tvg-logo="http://mundo2.pro:80/images/cf1a7657ce6424825327f193d3d30618.png" group-title="⚽DEPORTES COLOMBIA⚽",CO | Win Sports+ 4K
+http://somoseluno.blog:80/live/Bertha123/Bertha123/400194.ts
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="CO | Win Sports  HD" tvg-logo="http://mundo2.pro:80/images/cf1a7657ce6424825327f193d3d30618.png" group-title="⚽DEPORTES COLOMBIA⚽",CO | Win Sports  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/69293.ts
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="CO | Win Sports SD" tvg-logo="http://mundo2.pro:80/images/cf1a7657ce6424825327f193d3d30618.png" group-title="⚽DEPORTES COLOMBIA⚽",CO | Win Sports SD
+
+ZONA DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="E$PN HD" tvg-logo="http://mundo2.pro:80/images/db74988ae31d459907f62c43dcc987eb.jpg" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",E$PN HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306385.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD OP 2" tvg-logo="http://mundo2.pro:80/images/db74988ae31d459907f62c43dcc987eb.jpg" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",ESPN HD OP 2
+http://somoseluno.blog:80/live/Bertha123/Bertha123/472221.ts
+#EXTINF:-1 tvg-id="" tvg-name="E$PN 2 HD" tvg-logo="https://eliasarriazola.wordpress.com/wp-content/uploads/2011/01/espn2_bw_neg.jpg?w=449&h=337&crop=1" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",E$PN 2 HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306386.ts
+#EXTINF:-1 tvg-id="" tvg-name="E$PN 2 SD" tvg-logo="https://eliasarriazola.wordpress.com/wp-content/uploads/2011/01/espn2_bw_neg.jpg?w=449&h=337&crop=1" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",E$PN 2 SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306387.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEF6ZBpdGrphpxWN411VHj3RZ70HYSO0p4VNZo3UOxA&s=10" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",ESPN 3 HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306388.ts
+#EXTINF:-1 tvg-id="" tvg-name="E$PN 3 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKEF6ZBpdGrphpxWN411VHj3RZ70HYSO0p4VNZo3UOxA&s=10" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",E$PN 3 SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306389.ts
+#EXTINF:-1 tvg-id="" tvg-name="E$PN 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiDMv34gDqsacHep4rKwsAhYwi9l5fCW4ETfkRRPI-fDgY1Pjeggqfxk&s=10" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",E$PN 4 HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306390.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPⓝ 4 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNiDMv34gDqsacHep4rKwsAhYwi9l5fCW4ETfkRRPI-fDgY1Pjeggqfxk&s=10" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",ESPⓝ 4 SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306391.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPⓝ 5 HD" tvg-logo="http://mundo2.pro:80/images/4d26ed5201c19cba093c70c98482645c.png" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",ESPⓝ 5 HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306392.ts
+#EXTINF:-1 tvg-id="" tvg-name="E$PN 5 SD" tvg-logo="http://mundo2.pro:80/images/4d26ed5201c19cba093c70c98482645c.png" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",E$PN 5 SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306393.ts
+#EXTINF:-1 tvg-id="" tvg-name="E$PN 6 HD" tvg-logo="http://mundo2.pro:80/images/c8fca111cbfec65dd8a2b89ebb7201d6.png" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",E$PN 6 HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306394.ts
+#EXTINF:-1 tvg-id="" tvg-name="E$PN 6 SD" tvg-logo="http://mundo2.pro:80/images/c8fca111cbfec65dd8a2b89ebb7201d6.png" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",E$PN 6 SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306395.ts
+#EXTINF:-1 tvg-id="" tvg-name="E$PN 7 HD" tvg-logo="http://mundo2.pro:80/images/61ec4326e1c6b0728e35ad603df02f7c.png" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",E$PN 7 HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306396.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPⓝ 7 SD" tvg-logo="http://mundo2.pro:80/images/61ec4326e1c6b0728e35ad603df02f7c.png" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",ESPⓝ 7 SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306397.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPⓝ PREMIUM AR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",ESPⓝ PREMIUM AR HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306398.ts
+#EXTINF:-1 tvg-id="" tvg-name="E$PN PREMIUM AR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",E$PN PREMIUM AR SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306399.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",ESPN Brasil 2
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306425.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",ESPN Brasil 4
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306427.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",ESPN Brasil 3
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306426.ts
+#EXTINF:-1 tvg-id="605" tvg-name="AR | F⚽X SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",AR | F⚽X SPORTS 1 HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/99836.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | F⚽X SPORTS 1 SD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",AR | F⚽X SPORTS 1 SD.
+http://somoseluno.blog:80/live/Bertha123/Bertha123/99837.ts
+#EXTINF:-1 tvg-id="3082dtv.cl" tvg-name="AR | FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/250px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",AR | FOX SPORTS 2 HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/100116.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/250px-Fox_Sports_2_Argentina_2023.svg.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",AR | FOX SPORTS 2 SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/144412.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",AR | FOX SPORTS 3 SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306176.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",MX | FOX SPORTS PREMIUM HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306663.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png/1200px-Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",MX | FOX SPORTS 1 HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306299.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX | F0X SPORTS 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fox_Sports_M%C3%A9xico_Logo_2022.png/1200px-Fox_Sports_M%C3%A9xico_Logo_2022.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",MX | F0X SPORTS 1 SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306300.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/1024px-Fox_sports_2_logo.svg.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",MX | FOX SPORTS 2 HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306301.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX | F0X SPORTS 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/1024px-Fox_sports_2_logo.svg.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",MX | F0X SPORTS 2 SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306302.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Fox_Sports_3_Logo_2022.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",MX | FOX SPORTS 3 HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306303.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX | F0X SPORTS 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Fox_Sports_3_Logo_2022.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",MX | F0X SPORTS 3 SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306304.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",AR | FOX SPORTS 3 HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306175.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",MX | FOX SPORTS PREMIUM SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/306664.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO| D$PORTS " tvg-logo="http://myplayente.dynns.com:80/images/81vuVQTMqoCkld3sCzAzQMTuEQ7tt8sRTstlKnGAqtxI4Kn0xUtZDlZNoLj1QV0J5O6BPOvEleKAAHHbIOOfyA.png" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",CO| D$PORTS 
+http://somoseluno.blog:80/live/Bertha123/Bertha123/558622.ts
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="PE | D$PORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",PE | D$PORTS HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/50724.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE| D$PORTS 1SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",PE| D$PORTS 1SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/417690.ts
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="AR | D$PORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",AR | D$PORTS 2 HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/50725.ts
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="AR | D$PORTS 2 0PC ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",AR | D$PORTS 2 0PC ²
+http://somoseluno.blog:80/live/Bertha123/Bertha123/50726.ts
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="AR | D$PORTS + HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",AR | D$PORTS + HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/54471.ts
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="AR | D$P0RTS + 0PC ²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",AR | D$P0RTS + 0PC ²
+http://somoseluno.blog:80/live/Bertha123/Bertha123/54472.ts
+CINE PREMIUN
+#EXTINF:-1 tvg-id="" tvg-name="CINE l P∆NICO HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ3ULDxLzwCnoThNDFcSQWEAm-c9mv1zaicE-kkEzOWiOs7gA8OoCi5C8&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE l P∆NICO HD 
+http://somoseluno.blog:80/live/Bertha123/Bertha123/538093.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | A&E HD" tvg-logo="http://imgfz.com/i/mR0lHE3.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | A&E HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/435979.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | STAR CHANEL HD" tvg-logo="https://i.postimg.cc/63mygjwX/STAR-HD.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | STAR CHANEL HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/436007.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | CINEMAX HD " tvg-logo="http://imgfz.com/i/T5rxYbe.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | CINEMAX HD 
+http://somoseluno.blog:80/live/Bertha123/Bertha123/435991.ts
+#EXTINF:-1 tvg-id="507" tvg-name="CINE | CINECANAL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | CINECANAL  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1251.ts
+#EXTINF:-1 tvg-id="209dtv.co" tvg-name="CINE | AXN  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | AXN  FHD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1254.ts
+#EXTINF:-1 tvg-id="209dtv.co" tvg-name="CINE | AXN  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | AXN  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1255.ts
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="CINE  | TNT SERIES  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | TNT SERIES  FHD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1247.ts
+#EXTINF:-1 tvg-id="tntseries.mx" tvg-name="CINE | TNT SERIES  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | TNT SERIES  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1248.ts
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="CINE  | TⓝT  FHD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | TⓝT  FHD 
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1244.ts
+#EXTINF:-1 tvg-id="502dtv.cl" tvg-name="CINE  | TÑT  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | TÑT  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1245.ts
+#EXTINF:-1 tvg-id="213dtv.cl" tvg-name="CINE |  TNT SERIES  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE |  TNT SERIES  SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1250.ts
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="CINE | HBO  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO  FHD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/54.ts
+#EXTINF:-1 tvg-id="1524dtv.co" tvg-name="CINE | HBO  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/55.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO 2 HD" tvg-logo="https://i.postimg.cc/CMCQYWXJ/HBO-2-HD.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO 2 HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/435985.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | HBO 2 FHD" tvg-logo="https://i.postimg.cc/Qxykrm80/HBO-2-SD.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO 2 FHD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/435988.ts
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="CINE  | HBO FAMILY FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO FAMILY FHD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/51.ts
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="CINE | HBO FAMILY  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO FAMILY  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/52.ts
+#EXTINF:-1 tvg-id="1534dtv.cl" tvg-name="CINE | HBO FAMILY  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO FAMILY  SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/53.ts
+#EXTINF:-1 tvg-id="526" tvg-name="CINE  | HBO PLUS  HD" tvg-logo="http://mundo2.pro:80/images/fd496867ac6e9074677342d8e013f563.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO PLUS  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/49.ts
+#EXTINF:-1 tvg-id="526" tvg-name="CINE  | HBO PLUS  FHD" tvg-logo="http://mundo2.pro:80/images/fd496867ac6e9074677342d8e013f563.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO PLUS  FHD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/50.ts
+#EXTINF:-1 tvg-id="528" tvg-name="CINE  | HBO XTREME HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO XTREME HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/47.ts
+#EXTINF:-1 tvg-id="526" tvg-name="CINE | HBO XTREME FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO XTREME FHD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/48.ts
+#EXTINF:-1 tvg-id="541" tvg-name="CINE  | HBO POP  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO POP  FHD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1242.ts
+#EXTINF:-1 tvg-id="541" tvg-name="CINE  | HBO .POP  HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE  | HBO .POP  HD 
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1243.ts
+#EXTINF:-1 tvg-id="1" tvg-name="CINE | HBO MUNDl FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO MUNDl FHD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/53937.ts
+#EXTINF:-1 tvg-id="1" tvg-name="CINE | HBO MUNDI HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | HBO MUNDI HD 
+http://somoseluno.blog:80/live/Bertha123/Bertha123/53939.ts
+#EXTINF:-1 tvg-id="1" tvg-name="CINE l P∆R∆M0UNT + HD" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE l P∆R∆M0UNT + HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/53938.ts
+#EXTINF:-1 tvg-id="518dtv.ar" tvg-name="CINE | SPACE CHANEL  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SPACE CHANEL  FHD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1280.ts
+#EXTINF:-1 tvg-id="518dtv.ar" tvg-name="CINE | SPACE CHANEL  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SPACE CHANEL  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1281.ts
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="CINE | FX  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | FX  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1275.ts
+#EXTINF:-1 tvg-id="217dtv.cl" tvg-name="CINE | FX  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | FX  SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1276.ts
+#EXTINF:-1 tvg-id="504" tvg-name="CINE | TCM  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | TCM  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1266.ts
+#EXTINF:-1 tvg-id="504" tvg-name="CINE |  TCM  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE |  TCM  SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1267.ts
+#EXTINF:-1 tvg-id="514dtv.cl" tvg-name="CINE | CINE LATINO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWKA2w7UzyAaT3-EA29E7bvcPQ9SsvHoMQ&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | CINE LATINO
+http://somoseluno.blog:80/live/Bertha123/Bertha123/100681.ts
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="CINE GOLDEN PLUS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE GOLDEN PLUS FHD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/53940.ts
+#EXTINF:-1 tvg-id="1503dtv.cl" tvg-name="CINE | GOLDEN PLUS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN PLUS HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/53941.ts
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="CINE | GOLDEN PREMIER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN PREMIER  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1293.ts
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="CINE | GOLDEN PREMIER  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN PREMIER  SD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1294.ts
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="CINE | WARNER  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | WARNER  FHD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1258.ts
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="CINE | WARNER  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | WARNER  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1259.ts
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="CINE | SONY M0VIES FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SONY M0VIES FHD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1261.ts
+#EXTINF:-1 tvg-id="208dtv.cl" tvg-name="CINE | SONY  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | SONY  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1263.ts
+#EXTINF:-1 tvg-id="503dtv.cl" tvg-name="CINE | GOLDEN  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1287.ts
+#EXTINF:-1 tvg-id="517dtv.cl" tvg-name="CINE | GOLDEN EDG  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | GOLDEN EDG  HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1290.ts
+#EXTINF:-1 tvg-id="1572dtv.cl" tvg-name="P | UNIVERSAL CINEMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL CINEMA HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/111421.ts
+#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL CRIMEN HD" tvg-logo="https://i.ytimg.com/vi/6AckSd4Qswk/maxresdefault.jpg" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL CRIMEN HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/111422.ts
+#EXTINF:-1 tvg-id="1573dtv.cl" tvg-name="P | UNIVERSAL COMEDY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL COMEDY HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/111417.ts
+#EXTINF:-1 tvg-id="576" tvg-name="P | UNIVERSAL PREMIER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL PREMIER HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/111419.ts
+#EXTINF:-1 tvg-id="" tvg-name="P | UNIVERSAL REALITY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️",P | UNIVERSAL REALITY HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/111420.ts
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="CINE | UNIVERSAL CHANEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1024px-Universal_Channel_Logo_2013.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | UNIVERSAL CHANEL HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1269.ts
+#EXTINF:-1 tvg-id="universalchannel.mx" tvg-name="CINE | UNIVERSAL STUDIO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Universal_Studios_Hollywood_%28recorte%29.jpg/1200px-Universal_Studios_Hollywood_%28recorte%29.jpg" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | UNIVERSAL STUDIO FHD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1268.ts
+#EXTINF:-1 tvg-id="210dtv.cl" tvg-name="CINE | AMC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️",CINE | AMC HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/1284.ts
+#EXTINF:-1 tvg-id="" tvg-name="ClNE | AMC SERIES " tvg-logo="https://i.ytimg.com/vi/q-ImVW8iRNA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCXXXTQyTDQhJzEU1dXinpsh1GoOw" group-title="❇️ CINE PREMIUM Exclusivo ❇️",ClNE | AMC SERIES 
+http://somoseluno.blog:80/live/Bertha123/Bertha123/376321.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROPA EUROPA" tvg-logo="http://mundo2.pro:80/images/f03c24deece1f371d55953aabc3d3a20.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",EUROPA EUROPA
+http://somoseluno.blog:80/live/Bertha123/Bertha123/317522.ts
+#EXTINF:-1 tvg-id="" tvg-name="ClNE l °US∆ SERIES " tvg-logo="https://yt3.googleusercontent.com/8zYXddtg0CH7NXDA63WqNnsIpDLzBTv4vBFNmvuqlLQQqCRFMHLOlo3NDAJ6L-vam7S5sLie=s900-c-k-c0x00ffffff-no-rj" group-title="❇️ CINE PREMIUM Exclusivo ❇️",ClNE l °US∆ SERIES 
+http://somoseluno.blog:80/live/Bertha123/Bertha123/346686.ts
+#EXTINF:-1 tvg-id="" tvg-name="ClNE l DHE cine  HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️",ClNE l DHE cine  HD 
+http://somoseluno.blog:80/live/Bertha123/Bertha123/400290.ts
+TELENOVELAS
+#EXTINF:-1 tvg-id="" tvg-name="TELENOVELAS HD" tvg-logo="http://mundo2.pro:80/images/8b5ebed151987db2f42ab9a07ede1e2d.png" group-title="❎ TELENOVELAS ❎",TELENOVELAS HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/360898.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLNOVELAS HD" tvg-logo="http://mundo2.pro:80/images/8b5ebed151987db2f42ab9a07ede1e2d.png" group-title="❎ TELENOVELAS ❎",TLNOVELAS HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/360896.ts
+#EXTINF:-1 tvg-id="" tvg-name="TL NOVELAS HD" tvg-logo="http://mundo2.pro:80/images/8b5ebed151987db2f42ab9a07ede1e2d.png" group-title="❎ TELENOVELAS ❎",TL NOVELAS HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/360905.ts
+#EXTINF:-1 tvg-id="tlnovelas.mx" tvg-name="TELENOVELAS HD" tvg-logo="https://lh3.googleusercontent.com/F3eeTBXeHqM_1xGTS_mZKy-Eb040PFkvae1F8wYxHq8pocnQ8BdW5WhqPTGN7elz9nJ1joAf-jc8d222524k6STQ86bKpkDluAIp2vpLxsEfhRA3oZHK9ZA130fp5PU2nr_RDRbPYA=w1920-h1080" group-title="❎ TELENOVELAS ❎",TELENOVELAS HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/93368.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN TELENOVELAS HD" tvg-logo="http://mundo2.pro:80/images/d18e73af9766fcc858b62a09929e38a5.png" group-title="❎ TELENOVELAS ❎",RCN TELENOVELAS HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/360902.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN NOVELAS HD" tvg-logo="http://mundo2.pro:80/images/d18e73af9766fcc858b62a09929e38a5.png" group-title="❎ TELENOVELAS ❎",RCN NOVELAS HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/100288.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS" tvg-logo="http://mundo2.pro:80/images/a228ae82c7779522e259b422df562068.png" group-title="❎ TELENOVELAS ❎",TNT NOVELAS
+http://somoseluno.blog:80/live/Bertha123/Bertha123/360894.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS HD" tvg-logo="http://mundo2.pro:80/images/a228ae82c7779522e259b422df562068.png" group-title="❎ TELENOVELAS ❎",TNT NOVELAS HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/99829.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELAS HD" tvg-logo="http://mundo2.pro:80/images/a228ae82c7779522e259b422df562068.png" group-title="❎ TELENOVELAS ❎",TNT NOVELAS HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/360893.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D Drama HD" tvg-logo="http://mundo2.pro:80/images/0636e412943c47306fb2756721ae3396.png" group-title="❎ TELENOVELAS ❎",KANAL D Drama HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/360895.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANAL D Novelas HD" tvg-logo="http://mundo2.pro:80/images/0636e412943c47306fb2756721ae3396.png" group-title="❎ TELENOVELAS ❎",KANAL D Novelas HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/360897.ts
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES HD" tvg-logo="http://mundo2.pro:80/images/179dbe52a39170b65756d3f7b88dfeb3.png" group-title="❎ TELENOVELAS ❎",PASIONES HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/360891.ts
+#EXTINF:-1 tvg-id="" tvg-name="PASIONES HD." tvg-logo="http://mundo2.pro:80/images/179dbe52a39170b65756d3f7b88dfeb3.png" group-title="❎ TELENOVELAS ❎",PASIONES HD.
+http://somoseluno.blog:80/live/Bertha123/Bertha123/360892.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telenovelas Unv* HD" tvg-logo="http://mundo2.pro:80/images/73abf6e1d28db5ee0f21e09cb04eb6f3.png" group-title="❎ TELENOVELAS ❎",Telenovelas Unv* HD
+http://somoseluno.blog:80/live/Bertha123/Bertha123/360903.ts
+PELICULAS ESTRENOS 2026
+#EXTINF:-1 tvg-id="" tvg-name="Yo antes de ser yo (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSSsjV7hvVS6gBaP9Sua5DEFaEh.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Yo antes de ser yo (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/561508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papá a Cargo (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qox5OvknYs1XJqw3aS3d9CvSEKO.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Papá a Cargo (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/561115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Is God Is (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u007P0KcvbVMsNUUJkVAnUqzOpm.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Is God Is (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/561112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Not Enter (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Do Not Enter (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/561106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Backrooms: Sin salida (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YTb97zytlWRWZb7HrOiEhk4e6f.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Backrooms: Sin salida (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/561103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Susana y Elvira: Sin plan B (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amqNq4a3cugpf48nfpZFJwnFzbb.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Susana y Elvira: Sin plan B (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/560817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Golden Kamuy: Asalto a la prisión de Abashiri (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82GKBbN5ovZJiz5H2dSbDBrHcJ2.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Golden Kamuy: Asalto a la prisión de Abashiri (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/560814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A una isla de ti (2026) | Castellano (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3siQa1NL6L2wIiZ0r6fKacBIp.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",A una isla de ti (2026) | Castellano (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/560811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El último gran golpe (2026) | Subtitulado (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",El último gran golpe (2026) | Subtitulado (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/560532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo (2026) | Castellano (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MCnV8wb1tODOrM8NmWAuPWm40Y.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo (2026) | Castellano (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/560360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Ases (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMprIGQqKpZ9cD3BjEynVB1sEOn.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",El Ases (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/560357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boulevard (2026) | Castellano (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvk8wxyQXLlrBIMuglDxdMYLgBW.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Boulevard (2026) | Castellano (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/560354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarga Navidad (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ji29dXqoeIsQiVnXAkzI4nzxMjr.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Amarga Navidad (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/560351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucky Lu (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvSNREwGqNj7ksVschtlUUJ9hYu.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Lucky Lu (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/558932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Portero Muy Improbable (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qIny8wROLKOEe89YHJgkMHiBxA.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Un Portero Muy Improbable (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/557739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Furious (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryOVzYoGhiOn4QtkwSa8pUTivPO.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",The Furious (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/557733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Día D: Bajo presión (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0PeqfICHgKnQ2f8YxyRJAg62fK.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",El Día D: Bajo presión (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/557730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Normal (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KmqwmCPrrs06qHFmwx4kzB58kJ.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Normal (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/557724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hasta el final (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Hasta el final (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/557721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El pasajero del diablo (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9s0EfBsZVpg2iScoJBVf3WOxWO.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",El pasajero del diablo (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/557718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El pasado acecha (2026) (D)" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/03729127c42d8097f8b0741f910797a7f87ef5966d14596b04bf76da2693cfa3.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",El pasado acecha (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/554847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deseo en Manhattan (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvRBvOyDifX3HNgqscIBtQO9jtP.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Deseo en Manhattan (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/554844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons: Simpsley (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",The Simpsons: Simpsley (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/551852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strung (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Strung (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/551481.mp4
+
+
 
 
