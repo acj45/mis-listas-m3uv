@@ -1,8 +1,8 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="TV", ALERTA BOGOTA
-https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8
+#EXTINF:-1 group-title="TV", CANAL UNO
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(i4ff3AsmhVxIHoDaRLJPQgGTdJzmsD0RmrLaYhujlg7uivDa-m05KlSWXq1FWW9W9JWnvEIcmXCM2jk0AQctkNrz2DnUqduteQ4QQMz5186TtfEppeg1BSSmLup81sTT)/cloud/3/x9nvvkc/s/live-720.m3u8
 
 #EXTINF:-1 group-title="Noticias", NTN24
 http://181.224.200.5:2277/play/a026/index.m3u8   
