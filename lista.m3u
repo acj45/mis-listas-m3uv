@@ -31,23 +31,23 @@ http://181.78.8.199:8000/play/a0e8/index.m3u8
 #EXTINF:-1 group-title="TV", CARACOL HD 
 http://181.225.190.242:8000/play/a00p
 
-#EXTINF:-1 group-title="TV", CARACOL HD 2
-http://152.231.29.139:8000/play/a0jz/index.m3u8
+#EXTINF:-1 group-title="TV", CARACOL HD OP1
+http://181.78.17.228:8081/CARACOL-HD/index.m3u8
 
-#EXTINF:-1 group-title="TV", CARACOL HD 3
-http://181.78.8.199:8000/play/a0hw/index.m3u8
+#EXTINF:-1 group-title="TV", CARACOL HD OP2
+http://177.234.249.178:8888/CARACOL/index.m3u8
 
-#EXTINF:-1 group-title="TV", CARACOL HD 4
+#EXTINF:-1 group-title="TV", CARACOL SEÑAL HD2
 http://181.78.211.244:8005/play/a0al/index.m3u8
 
 #EXTINF:-1 group-title="TV", RCN HD 
-http://181.225.190.242:8000/play/a02n
+http://209.14.115.253:8081/RCN/index.m3u8
 
 #EXTINF:-1 group-title="TV", RCN HD OP1
-http://181.78.12.119:16123/play/ch59/index.m3u8
+http://177.234.249.178:8888/RCN/index.m3u8
 
 #EXTINF:-1 group-title="TV", RCN HD OP2
-http://138.121.15.230:9002/RCN/index.m3u8
+http://181.78.17.228:8081/RCN-HD/index.m3u8
 
 #EXTINF:-1 group-title="TV", RCN NUESTRA TELE
 http://181.78.12.119:16123/play/a0aq/index.m3u8
@@ -236,10 +236,10 @@ http://190.108.83.69:8000/play/a05w/index.m3u8
 http://38.210.3.64:8090/play/a0p6/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", WIN SPORTS 
-http://181.78.67.171:8000/play/a0wy/index.m3u8
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", WIN SPORTS OP1
-http://181.78.211.244:8005/play/a0am/index.m3u8
+http://138.186.23.7:8082/WINSPORT/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTE", WIN SPORTS+
 http://181.119.86.1:8000/play/a0d4
