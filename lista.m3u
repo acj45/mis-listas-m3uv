@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TV", CANAL UNO
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(i4ff3AsmhVxIHoDaRLJPQgGTdJzmsD0RmrLaYhujlg7uivDa-m05KlSWXq1FWW9W9JWnvEIcmXCM2jk0AQctkNrz2DnUqduteQ4QQMz5186TtfEppeg1BSSmLup81sTT)/cloud/3/x9nvvkc/s/live-720.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(2gzpbIT-LFUmeGQxnUMRbzgS5EgKlZcp_9NfR9663vsJT5w452eFVIlxVz0ki6yRw_JHxoSF7yeuLjR-4RgGk8YDU9OWATHkpA37XRSwrYOADXpea-UpbfSfT7yvwuN0)/cloud/3/x9nvvkc/s/live-720.m3u8
 
 #EXTINF:-1 group-title="Noticias", NTN24
 http://181.224.200.5:2277/play/a026/index.m3u8   
@@ -29,7 +29,7 @@ https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 http://181.78.8.199:8000/play/a0e8/index.m3u8
 
 #EXTINF:-1 group-title="TV", CARACOL HD 
-http://181.225.190.242:8000/play/a00p
+http://138.121.15.230:9002/CARACOL/index.m3u8
 
 #EXTINF:-1 group-title="TV", CARACOL HD OP1
 http://181.78.17.228:8081/CARACOL-HD/index.m3u8
@@ -38,7 +38,7 @@ http://181.78.17.228:8081/CARACOL-HD/index.m3u8
 http://177.234.249.178:8888/CARACOL/index.m3u8
 
 #EXTINF:-1 group-title="TV", CARACOL SEÑAL HD2
-http://181.78.211.244:8005/play/a0al/index.m3u8
+http://181.78.14.26:4000/play/a00d/index.m3u8
 
 #EXTINF:-1 group-title="TV", RCN HD 
 http://209.14.115.253:8081/RCN/index.m3u8
@@ -139,12 +139,6 @@ https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
 #EXTINF:-1 group-title="CINE", FREE HD
 http://38.210.3.64:8090/play/a0p9/index.m3u8
 
-#EXTINF:-1 group-title="CINE", UNIVERSAL PREMIER
-http://8.243.126.131:8000/play/a0iq/index.m3u8
-
-#EXTINF:-1 group-title="CINE", UNIVERSAL PREMIER OESTE
-http://8.243.126.131:8000/play/a0ir/index.m3u8
-
 #EXTINF:-1 group-title="CINE", HBO
 http://181.79.87.130:8000/play/a0ei/index.m3u8
 
@@ -189,9 +183,6 @@ http://190.108.83.69:8000/play/a09s/index.m3u8
 
 #EXTINF:-1 group-title="TV", AMC SERIES
 http://190.108.83.69:8000/play/a091/index.m3u8
-
-#EXTINF:-1 group-title="CINE", MULTICINEMA
-http://8.243.126.131:8000/play/a0jx/index.m3u8
 
 #EXTINF:-1 group-title="TV", CINECANAL
 http://181.78.79.131:8000/play/a0pp
