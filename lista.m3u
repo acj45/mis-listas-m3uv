@@ -11,7 +11,7 @@ http://181.224.200.5:2277/play/a026/index.m3u8
  http://181.78.8.199:8000/play/a0a6/index.m3u8
 
 #EXTINF:-1 group-title="Noticias", NOTICIAS RCN
-https://aka-live1050.delivery.roku.com/63a55317-8cde-4c4a-9a5f-3e6a97ae7c9e/t2-origin/out/v1/live.m3u8
+https://ipv4.pluto.tv/api/tn/video/playout/v2/stitch/hls/channel/67d9b0ebc290c9499046e88f/master.m3u8?&includeExtendedEvents=true&coppa=1&CMCD=mtp%3D1700%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22245ed45f-804e-4702-889f-37bd80a277ae%22%2Csu
 
 #EXTINF:-1 group-title="Radio", BLU RADIO
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
