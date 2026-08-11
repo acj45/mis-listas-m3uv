@@ -143,7 +143,7 @@ http://38.210.3.64:8090/play/a0p9/index.m3u8
 http://somoseluno.blog:80/live/Bertha123/Bertha123/54.ts
 
 #EXTINF:-1 group-title="CINE", HBO2
-http://somoseluno.blog:80/live/Bertha123/Bertha123/435985.ts
+http://somoseluno.blog:80/live/Bertha123/Bertha123/435988.ts
 
 #EXTINF:-1 group-title="CINE", HBO FAMILY
 http://190.61.101.11:7050/play/a051/index.m3u8?hls
@@ -230,6 +230,9 @@ http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 http://181.119.86.1:8000/play/a0d4
 
 #EXTINF:-1 group-title="DEPORTE", WIN SPORTS+ OP1
+http://somoseluno.blog:80/live/Bertha123/Bertha123/69291.ts
+
+#EXTINF:-1 group-title="DEPORTE", WIN SPORTS+ OP2
 http://somoseluno.blog:80/live/Bertha123/Bertha123/400194.ts
 
 #EXTINF:-1 group-title="DEPORTE", ESPN HD 1
