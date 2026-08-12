@@ -5,7 +5,7 @@
 http://181.78.12.119:16123/play/ch63/index.m3u8
 
 #EXTINF:-1 group-title="TV", NOTICIAS RCN
-https://9757738f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2VsZWN0VFZfUkNOTm90aWNpYXNfSExT/648669e7-9b6d-44a4-b2a0-6ae0b0312efd/2.m3u8
+https://9757738f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2VsZWN0VFZfUkNOTm90aWNpYXNfSExT/playlist.m3u8
 
 #EXTINF:-1 group-title="Noticias", NTN24
 http://181.224.200.5:2277/play/a026/index.m3u8   
