@@ -160,6 +160,10 @@ http://181.78.79.131:8000/play/a0qy
 #EXTINF:-1 group-title="CINE", SPACE HD
 http://181.78.79.131:8000/play/a0q2
 
+
+#EXTINF:-1 group-title="CINE", CINECANAL
+https://cdn1tlinkgo.tlink.cl/cinecanalhd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="CINE", WARNER HD
 http://181.78.79.131:8000/play/a0pz
 
