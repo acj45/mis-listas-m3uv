@@ -145,38 +145,29 @@ http://38.210.3.64:8090/play/a0p9/index.m3u8
 #EXTINF:-1 group-title="CINE", HBO
 http://somoseluno.blog:80/live/Bertha123/Bertha123/54.ts
 
-#EXTINF:-1 group-title="CINE", HBO OP1
-https://full-online.xyz/proxy/ssl/index.php?url=http%3A%2F%2F181.119.215.61%3A8000%2Fplay%2Fa0l2%2F37972050.m3u8
-
 #EXTINF:-1 group-title="CINE", HBO2
 http://somoseluno.blog:80/live/Bertha123/Bertha123/435988.ts
-
-#EXTINF:-1 group-title="CINE", HBO2 OP1
-https://full-online.xyz/proxy/ssl/index.php?url=http%3A%2F%2F181.119.215.61%3A8000%2Fplay%2Fa00c%2F17692159.m3u8
 
 #EXTINF:-1 group-title="CINE", HBO FAMILY
 http://190.61.101.11:7050/play/a051/index.m3u8?hls
 
-#EXTINF:-1 group-title="CINE", HBO FAMILY OP1
-https://pelisjuanita.xyz/proxy/ssl/index.php?url=http%3A%2F%2F181.119.215.61%3A8000%2Fplay%2Fa0l5%2F59435587.m3u8
+#EXTINF:-1 group-title="CINE", HBO FAMILY OP2
+http://somoseluno.blog:80/live/Bertha123/Bertha123/52.ts
 
 #EXTINF:-1 group-title="CINE", HBO PLUS
 http://190.61.101.11:7050/play/a050/index.m3u8?hls
 
-#EXTINF:-1 group-title="CINE", HBO PLUS OP1
-https://pelisjuanita.xyz/proxy/ssl/index.php?url=http%3A%2F%2F181.119.215.61%3A8000%2Fplay%2Fa0l4%2F31961601.m3u8
+#EXTINF:-1 group-title="CINE", HBO PLUS OP2
+http://somoseluno.blog:80/live/Bertha123/Bertha123/49.ts
 
 #EXTINF:-1 group-title="CINE", HBO XTREME HD
 http://181.78.79.131:8000/play/a0qy
 
-#EXTINF:-1 group-title="CINE", HBO XTREME OP1
-https://full-online.xyz/proxy/ssl/index.php?url=http%3A%2F%2F181.119.215.61%3A8000%2Fplay%2Fa0l6%2F41476797.m3u8
+#EXTINF:-1 group-title="CINE", HBO XTREME HD OP2
+http://somoseluno.blog:80/live/Bertha123/Bertha123/47.ts
 
 #EXTINF:-1 group-title="CINE", SPACE HD
 http://181.78.79.131:8000/play/a0q2
-
-#EXTINF:-1 group-title="CINE", CINECANAL
-https://cdn1tlinkgo.tlink.cl/cinecanalhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="CINE", FX
 https://cdn1tlinkgo.tlink.cl/fxhd/tracks-v1a1/mono.m3u8
@@ -206,7 +197,7 @@ http://181.78.79.131:8000/play/a0q0
 http://190.108.83.69:8000/play/a09s/index.m3u8
 
 #EXTINF:-1 group-title="TV", AMC SERIES
-http://190.108.83.69:8000/play/a091/index.m3u8
+http://somoseluno.blog:80/live/Bertha123/Bertha123/376321.ts
 
 #EXTINF:-1 group-title="TV", CINECANAL
 http://181.78.79.131:8000/play/a0pp
@@ -216,9 +207,6 @@ http://181.78.79.131:8000/play/a0qv
 
 #EXTINF:-1 group-title="TV", COMEDY CENTRAL
 http://181.78.79.131:8000/play/a0mu
-
-#EXTINF:-1 group-title="TV", DISTRITO COMEDIA
-https://full-online.xyz/proxy/ssl/index.php?url=http%3A%2F%2F190.61.101.11%3A7050%2Fplay%2Fa04k%2F73300930.m3u8
 
 #EXTINF:-1 group-title="TV", A&E HD
 http://181.78.79.131:8000/play/a0mt
