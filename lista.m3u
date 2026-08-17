@@ -41,7 +41,7 @@ http://177.234.249.178:8888/CARACOL/index.m3u8
 http://181.78.14.26:4000/play/a00d/index.m3u8
 
 #EXTINF:-1 group-title="TV", RCN HD 
-http://138.121.15.230:9002/RCN/index.m3u8
+http://181.225.190.242:8000/play/a02n
 
 #EXTINF:-1 group-title="TV", RCN HD OP1
 http://177.234.249.178:8888/RCN/index.m3u8
@@ -56,7 +56,7 @@ http://181.78.12.119:16123/play/a0aq/index.m3u8
 http://181.78.8.199:8000/play/a0d2/index.m3u8
 
 #EXTINF:-1 group-title="TV", CITY TV
-http://138.121.15.230:9002/CITY-TV/index.m3u8
+http://186.148.175.138:8000/play/a075
 
 #EXTINF:-1 group-title="Colombia", RED+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
