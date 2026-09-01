@@ -5,7 +5,7 @@
 http://181.78.12.119:16123/play/ch63/index.m3u8
 
 #EXTINF:-1 group-title="Noticias", NOTICIAS RCN
-https://9757738f.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2VsZWN0VFZfUkNOTm90aWNpYXNfSExT/6cad048f-97be-4c5b-91f1-5457cb94375e/3.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2f-67e6979de1de65be88aeb39f/variant.m3u8?x-plex-token=pHxtiZrvCz8cDz-_eqXX&x-plex-advertising-identifier=&x-plex-client-identifier=7uvb5mfpdd8ayxw35krhvpkp&x-plex-playback-id=p_99bc115d-957c-4de1-96d8-6ed7917a3e11&x-plex-playback-session-id=716fa0cb-45ba-4ce3-8298-314d84b65918&x-plex-session-id=110fb83e-a714-4352-85ea-5a1dc06747b6&x-plex-device=Windows&x-plex-device-name=Chrome&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=standalone&x-plex-platform=Chrome&x-plex-platform-version=152.0&x-plex-product=Plex+Web&x-plex-device-screen-resolution=1920x917%2C1920x1080&x-plex-device-vendor=&x-plex-version=4.160.0&x-plex-provider-streaming-start=1788267103&url=fb4abe63c340f0d9f5b46de07f47cfc3-e0eb67b4937ad7e0b60361a6c1f81fc7dae537b8510cceaaa4fef95877118df11870cfa8c97704c6630f72607b82ef2af8a4ed1995ed6163eae8d776dbc5465355a13a2d41a2a4b44cd8a86f7a367696e273668be9c4bad3c19dc23205248c036844c0a07365868dc55f72c72455695ded413bb7c76495236225d5612a11783e687feee9e8d755bbed6d60793f13b04baa4888187ed22e45506f727d945c55dc
 
 #EXTINF:-1 group-title="Noticias", NTN24
 http://181.224.200.5:2277/play/a026/index.m3u8   
