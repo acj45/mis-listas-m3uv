@@ -82,6 +82,9 @@ http://181.78.12.119:16123/play/ch56/index.m3u8
 #EXTINF:-1 group-title="MUSICA", RANCHENATO
 http://181.78.12.119:16123/play/ch15/index.m3u8
 
+#EXTINF:-1 group-title="MUSICA", LA CANTINA RADIO TV
+https://live.amelbatv.co:81/cantinaradiotv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="MUSICA", FIESTA TV
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 
