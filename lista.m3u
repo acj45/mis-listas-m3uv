@@ -124,11 +124,20 @@ http://181.78.12.119:16123/play/ch49/index.m3u8
 #EXTINF:-1 group-title="CINE", CINE FAMILIAR 
 http://181.78.12.119:16123/play/ch52/index.m3u8
 
-#EXTINF:-1 group-title="CINE", CINE HISPANO
-http://181.78.12.119:16123/play/ch51/index.m3u8
+#EXTINF:-1 group-title="CINE", FMH MOVIES
+http://38.210.3.64:8090/play/a0gl/index.m3u8
+
+#EXTINF:-1 group-title="CINE", FMH FAMILY
+http://38.210.3.64:8090/play/a0gj/index.m3u8
+
+#EXTINF:-1 group-title="CINE", FMH KIDS
+http://38.210.3.64:8090/play/a0gk/index.m3u8
 
 #EXTINF:-1 group-title="CINE", RUN:TIME
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+
+#EXTINF:-1 group-title="CINE", FREE TV ACCION
+http://38.210.3.64:8090/play/a0p9/index.m3u8
 
 #EXTINF:-1 group-title="CINE", HBO FAMILY
 http://190.61.101.11:7050/play/a051/index.m3u8?hls
@@ -240,6 +249,9 @@ https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 #EXTINF:-1 group-title="Noticias", DW NOTICIAS
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 group-title="Documentales", LOVE NATURE
+http://38.137.192.250:8000/play/a00i
 
 #EXTINF:-1 group-title="Documentales", LOVE THEPLANET
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
