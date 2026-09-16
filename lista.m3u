@@ -50,9 +50,12 @@ http://152.231.29.139:8000/play/a0jz/index.m3u8
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13779.ts
 
 #EXTINF:-1 group-title="TV", RCN HD 
-http://181.78.17.228:8081/RCN-HD/index.m3u8
+http://190.61.42.218:9000/play/a0a2/index.m3u8
 
 #EXTINF:-1 group-title="TV", RCN HD OP1
+http://181.78.17.228:8081/RCN-HD/index.m3u8
+
+#EXTINF:-1 group-title="TV", RCN HD OP2
 http://cloudtvserviceplatinum.site/live/ConsueloMolina11/W9C7EQYxsM/13782.ts
 
 #EXTINF:-1 group-title="TV", RCN HD2
@@ -69,6 +72,9 @@ http://181.78.8.199:8000/play/a0d2/index.m3u8
 
 #EXTINF:-1 group-title="TV", CITY TV
 http://186.148.175.138:8000/play/a075
+
+#EXTINF:-1 group-title="TV", EL TIEMPO TV
+http://190.61.46.92:8009/play/a0fo/index.m3u8
 
 #EXTINF:-1 group-title="Colombia", RED+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
