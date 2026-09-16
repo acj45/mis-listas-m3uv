@@ -142,6 +142,9 @@ http://181.78.12.119:16123/play/ch49/index.m3u8
 #EXTINF:-1 group-title="CINE", CINE FAMILIAR 
 http://181.78.12.119:16123/play/ch52/index.m3u8
 
+#EXTINF:-1 group-title="CINE", NITRO HD
+http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
+
 #EXTINF:-1 group-title="CINE", FMH MOVIES
 http://38.210.3.64:8090/play/a0gl/index.m3u8
 
